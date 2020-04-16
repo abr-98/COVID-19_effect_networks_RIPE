@@ -1,0 +1,1162 @@
+IP,connection,Status,AS_num,AS_name,host
+222.241.197.97,13,sender,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+192.168.33.253,12,Intermediate,,,NA
+192.168.33.1,13,Intermediate,,,NA
+222.241.196.1,13,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+61.187.99.221,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+61.137.9.73,3,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.77.161,1,Intermediate,,,NA
+202.97.94.130,2,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.12.25,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.58.14,2,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+118.85.205.82,2,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+213.248.70.3,3,Intermediate,1299.0,"TELIANET Telia Carrier, SE",hetzner-ic-326013-ffm-b4.c.telia.net
+213.239.224.249,1,Intermediate,24940.0,"HETZNER-AS, DE",core23.fsn1.hetzner.com
+213.239.229.66,1,Intermediate,24940.0,"HETZNER-AS, DE",ex9k1.dc2.fsn1.hetzner.com
+78.46.48.134,2,Intermediate,24940.0,"HETZNER-AS, DE",ctr-nue13.atlas.ripe.net
+61.187.99.213,3,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+61.137.9.81,4,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.45.225,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.94.138,2,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.91.190,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.98.181,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.50.58,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+218.30.53.109,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+63.243.205.1,1,Intermediate,6453.0,"AS6453, US",if-ae-1-2.tcore1.sqn-san-jose.as6453.net
+129.250.3.237,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-2.r23.lsanca07.us.bb.gin.ntt.net
+173.230.159.71,1,Intermediate,63949.0,"LINODE-AP Linode, LLC, US",NA
+129.250.3.121,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-40.r02.snjsca04.us.bb.gin.ntt.net
+104.237.152.132,1,Intermediate,63949.0,"LINODE-AP Linode, LLC, US",ctr-fnc01.atlas.ripe.net
+220.170.36.53,3,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.56.101,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.67.101,1,Intermediate,,,NA
+202.97.57.25,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.51.241,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+58.229.92.157,1,Intermediate,9318.0,"SKB-AS SK Broadband Co Ltd, KR",NA
+118.221.7.57,1,Intermediate,9318.0,"SKB-AS SK Broadband Co Ltd, KR",NA
+10.222.18.210,1,Intermediate,,,NA
+10.222.18.127,1,Intermediate,,,NA
+10.44.252.246,1,Intermediate,,,NA
+116.123.118.54,1,Intermediate,9318.0,"SKB-AS SK Broadband Co Ltd, KR",NA
+220.118.156.1,1,Intermediate,23556.0,"BANKTOWN-AS-KR INITECH, KR",NA
+202.97.77.153,1,Intermediate,,,NA
+202.97.63.210,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+219.158.23.245,1,Intermediate,4837.0,"CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN",NA
+219.158.12.6,1,Intermediate,4837.0,"CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN",NA
+43.254.100.2,1,Intermediate,134542.0,"UNICOM-GUIAN China Unicom IP network, CN",NA
+43.254.100.38,1,Intermediate,134542.0,"UNICOM-GUIAN China Unicom IP network, CN",NA
+193.0.14.129,1,Intermediate,25152.0,"K-ROOT-SERVER Reseaux IP Europeens Network Coordination Centre (RIPE NCC), NL",k.root-servers.net
+220.170.36.41,3,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+61.137.9.77,3,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.77.137,1,Intermediate,,,NA
+202.97.91.14,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.91.194,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.24.5,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+203.215.236.66,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+58.138.102.213,1,Intermediate,2497.0,"IIJ Internet Initiative Japan Inc., JP",tky001bb11.IIJ.Net
+58.138.100.6,1,Intermediate,2497.0,"IIJ Internet Initiative Japan Inc., JP",tky001ix14.IIJ.Net
+202.249.2.180,1,Intermediate,2500.0,"WIDE-BB WIDE Project, JP",as8674.dix-ie.jp
+192.36.148.17,2,Intermediate,29216.0,"I-ROOT DNS root name server i.root-servers.net., SE",i.root-servers.net
+61.137.12.125,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.30.45,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+220.191.200.246,1,Intermediate,58461.0,"CT-HANGZHOU-IDC No.288,Fu-chun Road, CN",NA
+61.164.28.218,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+61.164.63.194,1,Intermediate,58461.0,"CT-HANGZHOU-IDC No.288,Fu-chun Road, CN",NA
+192.5.5.241,1,Intermediate,3557.0,"ISC-AS, US",f.root-servers.net
+61.137.14.101,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.54.149,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+119.96.255.98,1,Intermediate,58563.0,"CHINATELECOM-HUBEI-IDC CHINANET Hubei province network, CN",NA
+119.96.254.5,1,Intermediate,58563.0,"CHINATELECOM-HUBEI-IDC CHINANET Hubei province network, CN",NA
+119.96.254.214,1,Intermediate,58563.0,"CHINATELECOM-HUBEI-IDC CHINANET Hubei province network, CN",NA
+199.7.83.42,2,Intermediate,20144.0,"L-ROOT, US",l.root-servers.net
+202.97.77.149,1,Intermediate,,,NA
+202.97.12.5,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.58.222,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.50.26,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+218.30.54.214,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+192.203.230.10,2,Intermediate,21556.0,"NARC-EROOT, US",e.root-servers.net
+220.170.36.49,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.45.229,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.12.41,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.94.14,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+129.250.2.157,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-1.r30.tokyjp05.jp.bb.gin.ntt.net
+129.250.2.51,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-4.r24.tkokhk01.hk.bb.gin.ntt.net
+129.250.6.92,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-1.r02.tkokhk01.hk.bb.gin.ntt.net
+129.250.6.125,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-2.a01.newthk03.hk.bb.gin.ntt.net
+198.97.190.53,1,Intermediate,1508.0,"DNIC-AS-01508, US",h.root-servers.net
+61.137.9.85,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.77.165,2,Intermediate,,,NA
+202.97.94.146,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.94.102,2,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+213.239.224.253,1,Intermediate,24940.0,"HETZNER-AS, DE",core24.fsn1.hetzner.com
+213.239.229.70,1,Intermediate,24940.0,"HETZNER-AS, DE",ex9k1.dc2.fsn1.hetzner.com
+202.97.77.141,1,Intermediate,,,NA
+202.97.94.142,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.60.214,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+129.250.2.155,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-2.r31.tokyjp05.jp.bb.gin.ntt.net
+129.250.2.242,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-4.r21.sngpsi07.sg.bb.gin.ntt.net
+129.250.3.90,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-2.r00.sngpsi07.sg.bb.gin.ntt.net
+192.80.17.118,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",NA
+139.162.0.2,1,Intermediate,63949.0,"LINODE-AP Linode, LLC, US",NA
+139.162.27.28,1,Intermediate,63949.0,"LINODE-AP Linode, LLC, US",ctr-sin02.atlas.ripe.net
+220.170.36.45,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.77.113,1,Intermediate,,,NA
+202.97.94.126,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.94.106,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.13.26,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+118.85.205.250,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+87.245.233.175,1,Intermediate,9002.0,"RETN-AS, EU",ae2-8.RT.KM.SPB.RU.retn.net
+87.245.252.78,1,Intermediate,9002.0,"RETN-AS, EU",GW-UNNet.retn.net
+89.104.97.50,1,Intermediate,31323.0,"UNNET-AS, RU",ip-50.97.104.89.net.unnet.ru
+92.255.2.210,1,Intermediate,31323.0,"UNNET-AS, RU",ip-210.2.255.92.net.unnet.ru
+74.119.38.1,0,dest,18608.0,"PALADYNE-SYSTEMS-INC, US",NA
+61.187.99.209,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.94.122,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.94.118,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.46.182,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+202.97.18.62,1,Intermediate,4134.0,"CHINANET-BACKBONE No.31,Jin-rong Street, CN",NA
+206.82.104.106,1,Intermediate,,,de-cix.nyc.pch.net
+199.7.91.13,2,Intermediate,10886.0,"MAX-GIGAPOP, US",d.root-servers.net
+176.36.213.156,1,sender,39608.0,"LANETUA-AS, UA",host-176-36-213-156.la.net.ua
+192.168.100.1,1,Intermediate,,,NA
+10.0.255.255,1,Intermediate,,,NA
+194.33.189.25,1,Intermediate,39608.0,"LANETUA-AS, UA",NA
+185.1.62.147,1,Intermediate,,,pch-as42-ix.giganet.ua
+194.149.138.252,24,sender,5379.0,"MK-UKIM-1, MK",NA
+194.149.138.254,22,Intermediate,5379.0,"MK-UKIM-1, MK",NA
+194.149.137.73,22,Intermediate,5379.0,"MK-UKIM-1, MK",NA
+194.149.130.3,22,Intermediate,5379.0,"MK-UKIM-1, MK",vl12-dazhbog.ukim.mk
+194.149.130.78,22,Intermediate,5379.0,"MK-UKIM-1, MK",NA
+83.97.88.101,18,Intermediate,21320.0,"GEANT_IAS_VRF, GB",marnet-ias.mx1.sof.bg.geant.net
+62.40.98.171,19,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",NA
+149.6.175.249,8,Intermediate,174.0,"COGENT-174, US",be5582.ccr52.vie01.atlas.cogentco.com
+130.117.15.162,1,Intermediate,174.0,"COGENT-174, US",level3.vie01.atlas.cogentco.com
+4.69.161.126,1,Intermediate,3356.0,"LEVEL3, US",ae-2-3203.ear3.Paris1.Level3.net
+213.242.127.62,1,Intermediate,3356.0,"LEVEL3, US",NA
+185.39.168.58,1,Intermediate,35625.0,"EURAFIBRE-AS, FR",core01-civ_core03-civ.as35625.net
+46.29.125.17,0,dest,35625.0,"EURAFIBRE-AS, FR",NA
+62.40.125.237,4,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",marnet.mx1.sof.bg.geant.net
+62.40.98.52,2,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",NA
+62.40.98.167,2,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",NA
+62.40.98.33,1,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",ae2.mx2.lju.si.geant.net
+62.40.124.6,1,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",arnes-gw.mx2.lju.si.geant.net
+88.200.7.241,1,Intermediate,2107.0,"ARNES-NET Academic and Research Network of Slovenia, SI",vl490.larnes6.bb.arnes.si
+88.200.7.236,1,Intermediate,2107.0,"ARNES-NET Academic and Research Network of Slovenia, SI",vl400.lljtpl1.bb.arnes.si
+193.2.63.12,1,Intermediate,2107.0,"ARNES-NET Academic and Research Network of Slovenia, SI",NA
+62.40.98.190,8,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",ae2.mx1.pra.cz.geant.net
+91.210.16.245,1,Intermediate,,,gw4.nix.cz
+93.190.128.178,1,Intermediate,6881.0,"NIXCZ NIX.CZ z.s.p.o., CZ",cz-prg-as6881.atlas.ripe.net
+154.54.59.182,5,Intermediate,174.0,"COGENT-174, US",be3462.ccr22.muc03.atlas.cogentco.com
+154.54.36.253,4,Intermediate,174.0,"COGENT-174, US",be2960.ccr42.fra03.atlas.cogentco.com
+130.117.0.141,2,Intermediate,174.0,"COGENT-174, US",be2814.ccr42.ams03.atlas.cogentco.com
+130.117.51.41,3,Intermediate,174.0,"COGENT-174, US",be12488.ccr42.lon13.atlas.cogentco.com
+130.117.51.138,1,Intermediate,174.0,"COGENT-174, US",be2350.rcr21.b023101-0.lon13.atlas.cogentco.com
+149.14.81.186,1,Intermediate,174.0,"COGENT-174, US",china-mobile.demarc.cogentco.com
+223.118.18.61,1,Intermediate,58453.0,"CMI-INT-HK Level 30, Tower 1, HK",NA
+223.118.18.34,1,Intermediate,58453.0,"CMI-INT-HK Level 30, Tower 1, HK",NA
+223.119.0.93,1,Intermediate,58453.0,"CMI-INT-HK Level 30, Tower 1, HK",NA
+37.10.40.14,1,Intermediate,202196.0,"BOOKING-BV, NL",NA
+154.54.60.14,1,Intermediate,174.0,"COGENT-174, US",be3488.ccr52.lhr01.atlas.cogentco.com
+130.117.48.146,1,Intermediate,174.0,"COGENT-174, US",be3672.agr21.lhr01.atlas.cogentco.com
+149.11.167.106,1,Intermediate,174.0,"COGENT-174, US",nuco.demarc.cogentco.com
+92.60.104.117,1,Intermediate,45014.0,"HOSTIT-MK-AS Milton Keynes Facility, GB",eth-51.sw1.ld5.slough.as45014.net
+92.60.104.182,1,Intermediate,45014.0,"HOSTIT-MK-AS Milton Keynes Facility, GB",eth-47.gw7.rtr.mkdc0.as45014.net
+185.184.236.30,1,Intermediate,45014.0,"HOSTIT-MK-AS Milton Keynes Facility, GB",rdns.host-it.co.uk
+62.40.98.192,7,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",ae8.mx1.fra.de.geant.net
+62.40.98.186,5,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",ae7.mx1.ams.nl.geant.net
+62.40.98.129,4,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",ae9.mx1.lon.uk.geant.net
+195.66.224.76,5,Intermediate,,,ge-2-1-0.mpr1.lhr2.uk.above.net
+64.125.30.52,5,Intermediate,6461.0,"ZAYO-6461, US",NA
+64.125.29.203,3,Intermediate,6461.0,"ZAYO-6461, US",ae4.cs1.dca2.us.eth.zayo.com
+64.125.31.169,2,Intermediate,6461.0,"ZAYO-6461, US",ae28.cs2.atl10.us.zip.zayo.com
+64.125.30.205,2,Intermediate,6461.0,"ZAYO-6461, US",ae5.mpr2.mia1.us.zip.zayo.com
+64.125.46.121,2,Intermediate,6461.0,"ZAYO-6461, US",64.125.46.121.IPYX-179716-ZYO.zip.zayo.com
+179.31.62.37,2,Intermediate,6057.0,"Administracion Nacional de Telecomunicaciones, UY",crsan2.gru-ae1036.antel.net.uy
+179.31.62.40,2,Intermediate,6057.0,"Administracion Nacional de Telecomunicaciones, UY",ibe2mln1-be5.antel.net.uy
+179.31.59.238,2,Intermediate,6057.0,"Administracion Nacional de Telecomunicaciones, UY",cbb4mln1-be27-2001.antel.net.uy
+200.40.98.28,2,Intermediate,6057.0,"Administracion Nacional de Telecomunicaciones, UY",ibb2cen3-be200-1703.antel.net.uy
+200.40.98.27,2,Intermediate,6057.0,"Administracion Nacional de Telecomunicaciones, UY",r200-40-98-27.ir-static.adinet.com.uy
+200.7.84.24,2,Intermediate,28000.0,"LACNIC - Latin American and Caribbean IP address, UY",uy-mvd-as28000.anchors.atlas.ripe.net
+62.40.125.178,1,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",amres-gw.mx1.bud.hu.geant.net
+147.91.5.144,1,Intermediate,13092.0,"UB-AS, RS",AMRES-MPLS-core----AMRES-IP-core-AMRES-IP.amres.ac.rs
+147.91.6.177,1,Intermediate,13092.0,"UB-AS, RS",jmx-nis-junis.amres.ac.rs
+147.91.6.178,1,Intermediate,13092.0,"UB-AS, RS",junis-jmx-nis.amres.ac.rs
+160.99.1.254,1,Intermediate,13303.0,"UNNI-AS, RS",ripe-anchor.junis.ni.ac.rs
+193.203.0.185,1,Intermediate,,,10gigabitethernet1-3.core1.vie1.he.net
+184.105.65.110,1,Intermediate,6939.0,"HURRICANE, US",100ge9-2.core1.muc1.he.net
+184.105.223.109,1,Intermediate,6939.0,"HURRICANE, US",100ge14-2.core1.fra2.he.net
+72.52.92.85,1,Intermediate,6939.0,"HURRICANE, US",100ge16-2.core1.fra1.he.net
+216.66.85.62,1,Intermediate,6939.0,"HURRICANE, US",ixreach-ltd.10gigabitethernet10-6.core1.fra1.he.net
+91.196.184.79,1,Intermediate,43531.0,"IXREACH, GB",ae0-3142.bb.thn.lon.as43531.net
+91.196.184.100,1,Intermediate,43531.0,"IXREACH, GB",ae1-3113.bb.gcc.man.as43531.net
+31.217.131.67,1,Intermediate,43531.0,"IXREACH, GB",NA
+46.227.203.230,1,Intermediate,41495.0,"FAELIX-AS, GB",xe0.rae.w.faelix.net
+46.227.202.97,1,Intermediate,41495.0,"FAELIX-AS, GB",uk-mnc-as41495.anchors.atlas.ripe.net
+62.40.124.39,1,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",surfnet-gw.mx1.ams.nl.geant.net
+80.249.208.71,1,Intermediate,,,gw.amsix.telrtr.ripe.net
+193.0.0.165,2,Intermediate,3333.0,"RIPE-NCC-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC), NL",nl-ams-as3333-4.anchors.atlas.ripe.net
+64.125.29.126,4,Intermediate,6461.0,"ZAYO-6461, US",ae5.cs3.lga5.us.eth.zayo.com
+64.125.29.19,1,Intermediate,6461.0,"ZAYO-6461, US",ae5.cs1.den5.us.eth.zayo.com
+64.125.31.219,1,Intermediate,6461.0,"ZAYO-6461, US",ae6.cs1.sjc2.us.eth.zayo.com
+64.125.30.231,1,Intermediate,6461.0,"ZAYO-6461, US",ae27.cr1.sjc2.us.zip.zayo.com
+64.125.24.186,1,Intermediate,6461.0,"ZAYO-6461, US",ae11.mpr3.sfo3.us.zip.zayo.com
+64.125.25.62,1,Intermediate,6461.0,"ZAYO-6461, US",ae0.mpr4.sfo3.us.zip.zayo.com
+209.133.4.58,1,Intermediate,6461.0,"ZAYO-6461, US",NA
+198.35.26.244,1,Intermediate,14907.0,"WIKIMEDIA, US",ripe-atlas-ulsfo.wikimedia.org
+80.81.192.224,1,Intermediate,,,1-2.r1.fr.hwng.net
+69.16.191.98,1,Intermediate,12989.0,"HWNG, NL",18-1.r1.am.hwng.net
+81.171.40.26,1,Intermediate,34343.0,"BIP-AS BIP Backbone ASN, NL",NA
+217.196.40.74,1,Intermediate,34106.0,"TELEGRAAF-AS AS NV Holdingmaatschappij De Telegraaf, NL",NA
+217.196.40.27,1,Intermediate,34106.0,"TELEGRAAF-AS AS NV Holdingmaatschappij De Telegraaf, NL",NA
+217.196.33.252,1,Intermediate,34106.0,"TELEGRAAF-AS AS NV Holdingmaatschappij De Telegraaf, NL",nl-ams-as34106.anchors.atlas.ripe.net
+193.203.0.150,1,Intermediate,,,retn.vix.at
+87.245.232.68,2,Intermediate,9002.0,"RETN-AS, EU",ae1-11.RT.TIC.VNO.LT.retn.net
+87.245.242.137,1,Intermediate,9002.0,"RETN-AS, EU",GW-Cgates.retn.net
+5.20.2.255,2,Intermediate,21412.0,"CGATES-AS, LT",dmz-2-255.cgates.lt
+138.44.226.6,1,Intermediate,7575.0,"AARNET-AS-AP Australian Academic and Research Network (AARNet), AU",NA
+113.197.15.35,1,Intermediate,7575.0,"AARNET-AS-AP Australian Academic and Research Network (AARNet), AU",et-1-1-0.pe1.fvly.qld.aarnet.net.au
+138.44.129.154,1,Intermediate,7575.0,"AARNET-AS-AP Australian Academic and Research Network (AARNet), AU",gw-apnic-pe1.fvly.aarnet.net.au
+203.133.248.56,1,Intermediate,4608.0,"APNIC-SERVICES Asia Pacific Network Information Centre, AU",ripe-anchor.rand.apnic.net
+80.239.135.54,2,Intermediate,1299.0,"TELIANET Telia Carrier, SE",win-b4-link.telia.net
+62.115.112.198,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",win-bb2-link.telia.net
+62.115.133.79,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-bb2-link.telia.net
+62.115.139.7,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",bei-b1-link.telia.net
+62.115.134.195,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",bei-b2-link.telia.net
+62.115.50.211,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ipb-ic-321779-bei-b1.c.telia.net
+194.29.243.90,1,Intermediate,20647.0,"IPB IPB Internet Provider in Berlin GmbH, DE",194-29-243-90.ipberlin.com
+194.29.243.58,1,Intermediate,20647.0,"IPB IPB Internet Provider in Berlin GmbH, DE",vl3015.cs34.k1.ipberlin.com
+185.27.158.238,1,Intermediate,20647.0,"IPB IPB Internet Provider in Berlin GmbH, DE",de-ber-as20647.anchors.atlas.ripe.net
+154.54.56.233,1,Intermediate,174.0,"COGENT-174, US",be2672.ccr21.muc03.atlas.cogentco.com
+154.54.36.53,2,Intermediate,174.0,"COGENT-174, US",be2959.ccr41.fra03.atlas.cogentco.com
+130.117.15.66,2,Intermediate,174.0,"COGENT-174, US",telecomitalia.fra03.atlas.cogentco.com
+93.186.132.245,1,Intermediate,6762.0,"SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",et2-1-2-50.istanbul2.ist.seabone.net
+93.186.132.149,1,Intermediate,6762.0,"SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",teknotel.istanbul2.ist.seabone.net
+77.92.111.190,1,Intermediate,25145.0,"TEKNOTEL-AS Teknotel Telekomunikasyon A.S., TR",edge.ist.tr.link.intibu.com
+213.238.162.218,1,Intermediate,48292.0,"INTIBU intibu.com, TR",tr-ist-as48292.anchors.atlas.ripe.net
+154.54.58.162,1,Intermediate,174.0,"COGENT-174, US",hu0-3-0-6.ccr51.vie01.atlas.cogentco.com
+154.54.58.5,1,Intermediate,174.0,"COGENT-174, US",be2974.ccr21.muc03.atlas.cogentco.com
+89.221.37.10,1,Intermediate,6762.0,"SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",NA
+89.221.37.7,2,Intermediate,6762.0,"SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",NA
+46.249.96.2,1,Intermediate,12697.0,"PARSUN-SINDAD-ANCHOR, IR",NA
+154.54.37.30,1,Intermediate,174.0,"COGENT-174, US",be2846.rcr22.fra06.atlas.cogentco.com
+149.11.96.42,1,Intermediate,174.0,"COGENT-174, US",NA
+62.214.38.97,1,Intermediate,8881.0,"VERSATEL, DE",NA
+217.9.108.198,1,Intermediate,8881.0,"VERSATEL, DE",NA
+185.70.144.116,1,Intermediate,200567.0,"MDEX, DE",NA
+141.136.101.237,1,Intermediate,3257.0,"GTT-BACKBONE GTT, DE",ae2.cr1-vie2.ip4.gtt.net
+89.149.128.26,1,Intermediate,3257.0,"GTT-BACKBONE GTT, DE",ae17.cr2-mil3.ip4.gtt.net
+185.78.48.9,1,Intermediate,201333.0,"NAQUADRIA-AS Naquadria Global ASN, IT",r01-ens2f4.mil1c.naquadria.net
+185.78.48.12,1,Intermediate,201333.0,"NAQUADRIA-AS Naquadria Global ASN, IT",r02-ens2f4.pia1.naquadria.net
+185.78.48.21,1,Intermediate,201333.0,"NAQUADRIA-AS Naquadria Global ASN, IT",cr02-vlan1020.pia1.naquadria.net
+185.78.49.100,1,Intermediate,201333.0,"NAQUADRIA-AS Naquadria Global ASN, IT",it-pcz-as201333.anchors.atlas.ripe.net
+62.115.113.68,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",prag-bb1-link.telia.net
+80.91.247.83,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",sfia-b2-link.telia.net
+213.248.93.34,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",delta-ic-346369-s-fia-b2.c.telia.net
+89.235.72.26,1,Intermediate,24631.0,"FANAPTELECOM-FCP, IR",NA
+89.235.72.41,1,Intermediate,24631.0,"FANAPTELECOM-FCP, IR",NA
+185.229.28.254,1,Intermediate,39650.0,"ATRINCOMMUNICATION, IR",20g.atrin.sc2
+185.229.28.6,1,Intermediate,39650.0,"ATRINCOMMUNICATION, IR",NA
+130.117.1.117,1,Intermediate,174.0,"COGENT-174, US",be3187.agr41.fra03.atlas.cogentco.com
+130.117.14.118,1,Intermediate,174.0,"COGENT-174, US",telefonica.fra03.atlas.cogentco.com
+176.52.252.33,1,Intermediate,12956.0,"TELEFONICA TELXIUS, ES",NA
+62.53.28.168,1,Intermediate,6805.0,"TDDE-ASN1, DE",bundle-ether5.0001.dbrx.01.off.de.net.telefonica.de
+62.53.0.198,1,Intermediate,6805.0,"TDDE-ASN1, DE",ae2-0.0002.corx.02.fra.de.net.telefonica.de
+62.53.0.48,1,Intermediate,6805.0,"TDDE-ASN1, DE",ae10-0.0001.corx.06.ham.de.net.telefonica.de
+62.53.14.239,1,Intermediate,6805.0,"TDDE-ASN1, DE",ae0-0.0001.dbrx.02.ham.de.net.telefonica.de
+62.53.1.107,1,Intermediate,6805.0,"TDDE-ASN1, DE",te0-3-0.0001.burx.02.ham.de.net.telefonica.de
+62.109.126.145,2,Intermediate,6805.0,"TDDE-ASN1, DE",NA
+185.41.104.3,2,Intermediate,201709.0,"HANDS, DE",xe-0-0-1-0.rtr02.ham01.hanseds.net
+185.41.104.166,2,Intermediate,201709.0,"HANDS, DE",atlas-anchor.ham01.hanseds.net
+64.125.29.13,1,Intermediate,6461.0,"ZAYO-6461, US",ae7.mpr1.lga243.us.zip.zayo.com
+208.184.23.255,1,Intermediate,6461.0,"ZAYO-6461, US",NA
+206.147.177.244,1,Intermediate,40160.0,"NEUTRAL-TANDEM, US",NA
+206.144.4.4,1,Intermediate,5006.0,"VOYANT, US",NA
+80.81.194.121,1,Intermediate,,,Ti9006b400.ti.telenor.net
+146.172.105.82,1,Intermediate,2119.0,"TELENOR-NEXTEL Telenor Norge AS, NO",ti3003c400-ae14-0.ti.telenor.net
+146.172.105.22,1,Intermediate,2119.0,"TELENOR-NEXTEL Telenor Norge AS, NO",ti3218b400-ae1-0.ti.telenor.net
+148.122.9.26,1,Intermediate,2119.0,"TELENOR-NEXTEL Telenor Norge AS, NO",NA
+77.214.52.97,1,Intermediate,9158.0,"TELENOR_DANMARK_AS, DK",NA
+77.214.52.98,1,Intermediate,9158.0,"TELENOR_DANMARK_AS, DK",NA
+2001:1610:46:ef00:c24a:ff:fea0:430,1,sender,9008.0,"ASN-VO Visual Online S.A. Luxembourg, LU",NA
+2001:1610:46:ef00:eadf:70ff:fe88:b8f5,1,Intermediate,9008.0,"ASN-VO Visual Online S.A. Luxembourg, LU",NA
+2001:1610:0:d::1,1,Intermediate,9008.0,"ASN-VO Visual Online S.A. Luxembourg, LU",NA
+2001:1610:0:c::4,1,Intermediate,9008.0,"ASN-VO Visual Online S.A. Luxembourg, LU",NA
+2001:7f8:4c::1b1b:1,1,Intermediate,,,AS6939.members.lu-cix.lu
+2001:470:0:3a7::1,1,Intermediate,6939.0,"HURRICANE, US",100ge8-1.core1.fra1.he.net
+2001:470:0:3fd::1,3,Intermediate,6939.0,"HURRICANE, US",100ge5-1.core1.zrh2.he.net
+2001:1600:0:ff::1e,3,Intermediate,29222.0,"INFOMANIAK-AS, CH",NA
+2001:1600::906,3,Intermediate,29222.0,"INFOMANIAK-AS, CH",bdb-cr01.net.infomaniak.ch
+2001:1600::11,3,Intermediate,29222.0,"INFOMANIAK-AS, CH",cl-d1-1.net.infomaniak.ch
+2001:1600:4:5::1,4,Intermediate,29222.0,"INFOMANIAK-AS, CH",NA
+2001:1600:4:9:f816:3eff:feee:a1d4,1,Intermediate,29222.0,"INFOMANIAK-AS, CH",od-6d987f.infomaniak.ch
+80.90.42.80,1,sender,9008.0,"ASN-VO Visual Online S.A. Luxembourg, LU",ppp-334.vo.lu
+192.168.178.1,1,Intermediate,,,NA
+80.90.46.143,1,Intermediate,9008.0,"ASN-VO Visual Online S.A. Luxembourg, LU",NA
+213.166.61.145,1,Intermediate,6661.0,"EPT-LU Entreprise des P. et T. Luxembourg, LU",NA
+213.135.247.2,1,Intermediate,6661.0,"EPT-LU Entreprise des P. et T. Luxembourg, LU",NA
+184.105.80.37,2,Intermediate,6939.0,"HURRICANE, US",100ge6-1.core1.lon2.he.net
+72.52.92.166,2,Intermediate,6939.0,"HURRICANE, US",100ge13-2.core1.nyc4.he.net
+184.105.64.178,1,Intermediate,6939.0,"HURRICANE, US",ve951.core2.nyc6.he.net
+23.157.160.1,1,Intermediate,397143.0,"NEPTUNE-NETWORKS, US",bdr-nyiix.neptunenetworks.org
+23.157.160.129,1,Intermediate,397143.0,"NEPTUNE-NETWORKS, US",core1.ny1.neptunenetworks.net
+23.157.160.140,1,Intermediate,397143.0,"NEPTUNE-NETWORKS, US",ripe-anchor.neptunenetworks.org
+185.233.100.99,6,sender,198985.0,"AQUILENET-AS, BE",ripe-atlas.aquilenet.fr
+185.233.100.124,6,Intermediate,198985.0,"AQUILENET-AS, BE",cerbere1.aquilenet.fr
+149.6.44.17,6,Intermediate,174.0,"COGENT-174, US",gi0-7-0-10.rcr21.bod01.atlas.cogentco.com
+154.54.56.66,6,Intermediate,174.0,"COGENT-174, US",be2840.rcr21.eas02.atlas.cogentco.com
+154.54.61.181,1,Intermediate,174.0,"COGENT-174, US",be2412.ccr31.bio02.atlas.cogentco.com
+154.54.85.241,1,Intermediate,174.0,"COGENT-174, US",be2331.ccr41.dca01.atlas.cogentco.com
+154.54.82.102,1,Intermediate,174.0,"COGENT-174, US",be2131.rcr51.bwi01.atlas.cogentco.com
+154.54.83.57,1,Intermediate,174.0,"COGENT-174, US",be2133.rcr21.phl01.atlas.cogentco.com
+154.54.7.2,1,Intermediate,174.0,"COGENT-174, US",be3163.rcr21.phl03.atlas.cogentco.com
+154.24.67.233,1,Intermediate,174.0,"COGENT-174, US",NA
+38.122.150.2,1,Intermediate,174.0,"COGENT-174, US",NA
+128.112.12.98,1,Intermediate,88.0,"PRINCETON-AS, US",core-87-router.princeton.edu
+128.112.128.33,2,Intermediate,88.0,"PRINCETON-AS, US",ripe-anchor.princeton.edu
+154.54.61.177,4,Intermediate,174.0,"COGENT-174, US",be2404.ccr42.par01.atlas.cogentco.com
+154.54.56.173,2,Intermediate,174.0,"COGENT-174, US",be12266.ccr42.ams03.atlas.cogentco.com
+154.54.39.186,1,Intermediate,174.0,"COGENT-174, US",be3458.ccr21.ams04.atlas.cogentco.com
+149.11.39.98,1,Intermediate,174.0,"COGENT-174, US",elisa.demarc.cogentco.com
+213.192.184.253,1,Intermediate,6667.0,"EUNET-FINLAND, FI",NA
+213.192.186.78,1,Intermediate,6667.0,"EUNET-FINLAND, FI",NA
+91.153.96.2,1,Intermediate,719.0,"ELISA-AS Helsinki, Finland, FI",91-153-96-2.elisa-laajakaista.fi
+193.65.45.86,1,Intermediate,790.0,"EUNET, FI",NA
+175.139.208.191,1,sender,4788.0,"TMNET-AS-AP TM Net, Internet Service Provider, MY",NA
+175.139.211.254,1,Intermediate,4788.0,"TMNET-AS-AP TM Net, Internet Service Provider, MY",NA
+10.55.49.79,1,Intermediate,,,NA
+10.55.37.88,1,Intermediate,,,NA
+162.158.24.253,1,Intermediate,13335.0,"CLOUDFLARENET, US",NA
+2001:67c:670:203:6666:b3ff:fec5:e56,3,sender,201824.0,"PENGUTRONIX, DE",ripe-atlas-16300.stat.pengutronix.de
+2001:67c:670:203:1d::3,3,Intermediate,201824.0,"PENGUTRONIX, DE",statstar.stat.pengutronix.de
+2001:67c:670:fe:1d::a,3,Intermediate,201824.0,"PENGUTRONIX, DE",antarctica.central.pengutronix.de
+2001:1640:12f::1,3,Intermediate,25394.0,"MK-NETZDIENSTE-AS, DE",cpe.mk.pengutronix.de
+2001:1640::6,3,Intermediate,25394.0,"MK-NETZDIENSTE-AS, DE",dsl-gate.mk.de
+2001:1640::23:1,3,Intermediate,25394.0,"MK-NETZDIENSTE-AS, DE",vl77.c2.mk.de
+2001:1640::94:1,3,Intermediate,25394.0,"MK-NETZDIENSTE-AS, DE",NA
+2001:7f8:bd::6939:1,2,Intermediate,,,NA
+2001:470:0:404::1,3,Intermediate,6939.0,"HURRICANE, US",100ge16-2.core1.fra1.he.net
+2001:470:0:3fc::2,3,Intermediate,6939.0,"HURRICANE, US",100ge13-1.core1.zrh3.he.net
+2001:1600::12,1,Intermediate,29222.0,"INFOMANIAK-AS, CH",cl-d2-1.net.infomaniak.ch
+2001:1600:4:9:f816:3eff:feee:436f,1,Intermediate,29222.0,"INFOMANIAK-AS, CH",od-ce6293.infomaniak.ch
+85.220.165.66,2,sender,25394.0,"MK-NETZDIENSTE-AS, DE",hazel.nat.pengutronix.de
+10.2.3.1,2,Intermediate,,,NA
+10.0.254.10,2,Intermediate,,,NA
+85.220.137.13,2,Intermediate,25394.0,"MK-NETZDIENSTE-AS, DE",cpe.mk.pengutronix.de
+213.172.96.145,2,Intermediate,25394.0,"MK-NETZDIENSTE-AS, DE",dsl-gate.mk.de
+213.172.99.17,2,Intermediate,25394.0,"MK-NETZDIENSTE-AS, DE",xe0-0-0-0.cr1a.mk.de
+213.172.120.115,2,Intermediate,25394.0,"MK-NETZDIENSTE-AS, DE",ae8.e1.mk.de
+62.115.146.188,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-b10-link.telia.net
+62.115.137.226,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-bb1-link.telia.net
+62.115.123.77,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",hbg-bb3-link.telia.net
+80.91.252.42,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",adm-bb3-link.telia.net
+62.115.136.195,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",adm-b1-link.telia.net
+62.115.145.77,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",broadbandhost-ic-316602-adm-b5.c.telia.net
+217.170.19.204,1,Intermediate,24785.0,"JOINTTRANSIT-AS, NL",jointtransit.wide.ad.jp
+202.12.27.33,2,Intermediate,7500.0,"M-ROOT-DNS WIDE Project, JP",M.ROOT-SERVERS.NET
+2001:7f8::a956:0:2,1,Intermediate,,,de-cix.r1.eqx-am7.nl.as43350.com
+2a00:1768::2:1,1,Intermediate,43350.0,"NFORCE, NL",NA
+2a00:1768:2000:2:1::1,1,Intermediate,43350.0,"NFORCE, NL",NA
+2001:470:0:2d5::1,2,Intermediate,6939.0,"HURRICANE, US",100ge1-1.core1.par2.he.net
+2a04:9140:3001:1101::a,1,Intermediate,196670.0,"ADP-EUROPE, FR",NA
+217.196.147.89,16,sender,5404.0,"CONOVA-AS ASN conova communications GmbH, AT",NA
+217.196.145.169,16,Intermediate,5404.0,"CONOVA-AS ASN conova communications GmbH, AT",NA
+217.196.158.13,16,Intermediate,5404.0,"CONOVA-AS ASN conova communications GmbH, AT",v773-c5.infra.conova.net
+217.196.158.3,15,Intermediate,5404.0,"CONOVA-AS ASN conova communications GmbH, AT",v773-e4.infra.conova.net
+217.196.145.138,7,Intermediate,5404.0,"CONOVA-AS ASN conova communications GmbH, AT",v100-e5.infra.conova.net
+185.54.144.50,0,dest,35753.0,"ITC ITC AS number, SA",NA
+2a02:16a8:dc:200::1,14,sender,5404.0,"CONOVA-AS ASN conova communications GmbH, AT",NA
+2a02:16a8:dc:200::def,14,Intermediate,5404.0,"CONOVA-AS ASN conova communications GmbH, AT",NA
+2a02:16a8:dc:100::def1,14,Intermediate,5404.0,"CONOVA-AS ASN conova communications GmbH, AT",NA
+2a02:16a8:5404:200::3,8,Intermediate,5404.0,"CONOVA-AS ASN conova communications GmbH, AT",v773-e4.infra.conova.net
+2a02:16a8:5404:dc00::2,6,Intermediate,5404.0,"CONOVA-AS ASN conova communications GmbH, AT",v100-e5.infra.conova.net
+2001:7f8::1b1b:0:1,4,Intermediate,,,ipv6.decix-frankfurt.core1.fra1.he.net
+2001:470:0:404::2,4,Intermediate,6939.0,"HURRICANE, US",100ge11-1.core1.fra2.he.net
+2001:470:0:489::2,5,Intermediate,6939.0,"HURRICANE, US",e0-54.core1.ams2.he.net
+2001:470:0:227::1,6,Intermediate,6939.0,"HURRICANE, US",100ge8-1.core1.lon3.he.net
+2001:470:0:3ea::1,5,Intermediate,6939.0,"HURRICANE, US",100ge14-1.core1.lon2.he.net
+2001:470:0:2cf::2,5,Intermediate,6939.0,"HURRICANE, US",100ge13-2.core1.nyc4.he.net
+2001:470:0:4b8::1,2,Intermediate,6939.0,"HURRICANE, US",100ge2-1.core2.chi1.he.net
+2001:470:0:18e::2,2,Intermediate,6939.0,"HURRICANE, US",100ge14-2.core1.msp1.he.net
+2001:504:27::8252:0:1,1,Intermediate,,,AS33362.micemn.net
+2600:2600:0:20::17:241,1,Intermediate,33362.0,"WIKTEL, US",NA
+2600:2600:0:20::4:21,1,Intermediate,33362.0,"WIKTEL, US",vl254.holt1.router.wiktel.com
+2600:2600::87,1,Intermediate,33362.0,"WIKTEL, US",us-ktd-as33362.anchors.atlas.ripe.net
+80.81.195.144,1,Intermediate,,,fra-eq5-01gw.voxility.net
+5.254.68.198,1,Intermediate,3223.0,"VOXILITY, GB",fra-eq5-02gw.voxility.net
+93.115.89.10,2,Intermediate,3223.0,"VOXILITY, GB",vie-in1-01gw.voxility.net
+93.115.93.178,1,Intermediate,3223.0,"VOXILITY, GB",buc-ird-03c.voxility.net
+5.254.56.202,1,Intermediate,3223.0,"VOXILITY, GB",NA
+195.95.178.138,1,Intermediate,41494.0,"INTERLAN, RO",NA
+2a01:190:1701::3b1,8,Intermediate,1764.0,"NEXTLAYER-AS, AT",NA
+2a01:190:1764:11::1,1,Intermediate,1764.0,"NEXTLAYER-AS, AT",ip6-ge0-0-10.r01.uni.vie.at.nextlayer.net
+2a01:190:1764:128::2,1,Intermediate,1764.0,"NEXTLAYER-AS, AT",NA
+2a01:190:1764:9e::1,1,Intermediate,1764.0,"NEXTLAYER-AS, AT",ip6-ae98.r02.uni.vie.at.nextlayer.net
+2a01:190:1764:2f::2,1,Intermediate,1764.0,"NEXTLAYER-AS, AT",NA
+2a01:190:1649::2,1,Intermediate,1764.0,"NEXTLAYER-AS, AT",NA
+2001:628:1100:1120::2,1,Intermediate,1853.0,"ACONET ACOnet Backbone, AT",wien1.aco.net
+2001:628:2000:feed::2,1,Intermediate,1120.0,"ACONET_SERVICES ACOnet Services @ Vienna Internet eXchange, AT",NA
+2001:7f8::3:6f1:0:1,1,Intermediate,,,decix.alpinedc.ch
+2a03:2040:0:6:1::76,1,Intermediate,198385.0,"ALPINEDC, CH",NA
+2a03:2041:3:10::10,1,Intermediate,198385.0,"ALPINEDC, CH",NA
+2001:7f8::3f89:0:2,1,Intermediate,,,de-cix.bb01.fra-10.leaseweb.net
+2a03:2280:38::149,1,Intermediate,,,NA
+2a00:c98::217:20:127:251,1,Intermediate,28753.0,"LEASEWEB-DE-FRA-10, DE",NA
+2a00:c98:2200:a01c:3::300,1,Intermediate,28753.0,"LEASEWEB-DE-FRA-10, DE",NA
+2a01:190:1764:144::158,7,Intermediate,1764.0,"NEXTLAYER-AS, AT",ip6-lo0.r03.inx.fra.de.nextlayer.net
+2a01:190:1764:e9::2,7,Intermediate,1764.0,"NEXTLAYER-AS, AT",NA
+2a01:190:1764:144::6,1,Intermediate,1764.0,"NEXTLAYER-AS, AT",NA
+2001:7f8:1::a500:1103:2,1,Intermediate,,,ae2.jnr02.Asd002A.surf.net
+2001:610:e00:2::13,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",ae20.ut001a-jnx-01.surf.net
+2001:610:e00:2::15,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",ae20.ut015b-jnx-01.surf.net
+2001:610:f00:28::29,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",e0-1-3-0.ut042a-jnx-01.surf.net
+2001:610:fc7:0:145:145:17:89,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",netsurf-router.customer.surf.net
+2001:610:510:180:195:169:125:10,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",NA
+80.81.192.66,1,Intermediate,,,ge1-2.Q9.FRA.DE.29632.as
+62.205.132.43,1,Intermediate,29632.0,"NASSIST-AS, GI",fo0-776.newage.iev.ua.29632.as
+62.205.155.50,1,Intermediate,29632.0,"NASSIST-AS, GI",ripe-anchor.hitech-ua.com
+80.81.193.76,1,Intermediate,,,de-cix-fra.akqui.net
+46.254.123.235,1,Intermediate,35258.0,"ITOSS, DE",eth3-13.n7k-ham02-svt130109-core.akqui.net
+87.253.184.92,1,Intermediate,35258.0,"ITOSS, DE",NA
+2001:470:0:3e9::2,1,Intermediate,6939.0,"HURRICANE, US",e0-36.core3.lon1.he.net
+2001:7f8:17::21e4:1,1,Intermediate,8330.0,"LONAP LONAP Ltd, GB",NA
+2001:1420:0:2::2,1,Intermediate,8676.0,"PRTSYSTEMS PRT Systems Ltd (Clearhost Transit AS), GB",dist1.thn.as8676.net
+2001:1420:d::2,1,Intermediate,8676.0,"PRTSYSTEMS PRT Systems Ltd (Clearhost Transit AS), GB",NA
+80.81.192.172,2,Intermediate,,,ipv4.decix-frankfurt.core1.fra1.he.net
+216.66.49.74,1,Intermediate,6939.0,"HURRICANE, US",princeton-university.10gigabitethernet1-1-6.switch1.nyc8.he.net
+128.112.12.66,1,Intermediate,88.0,"PRINCETON-AS, US",core-87-router.princeton.edu
+108.207.77.140,2,sender,7018.0,"ATT-INTERNET4, US",108-207-77-140.lightspeed.irvnca.sbcglobal.net
+192.168.2.1,5,Intermediate,,,NA
+172.16.0.1,2,Intermediate,,,NA
+76.200.228.1,2,Intermediate,7018.0,"ATT-INTERNET4, US",76-200-228-1.lightspeed.irvnca.sbcglobal.net
+75.29.48.1,2,Intermediate,7018.0,"ATT-INTERNET4, US",NA
+12.242.115.3,2,Intermediate,7018.0,"ATT-INTERNET4, US",NA
+80.239.193.213,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",las-bb1-link.telia.net
+62.115.137.38,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ash-bb2-link.telia.net
+62.115.143.121,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ash-b1-link.telia.net
+62.115.174.33,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",leaseweb-ic-344012-ash-b1.c.telia.net
+108.59.15.117,1,Intermediate,30633.0,"LEASEWEB-USA-WDC-01, US",po-5.ce02.wdc-01.us.leaseweb.net
+108.59.15.3,0,dest,30633.0,"LEASEWEB-USA-WDC-01, US",test.mss.leaseweb.net
+146.185.219.73,19,sender,199524.0,"GCORE, AT",bzi-anchor.test
+146.185.219.3,19,Intermediate,199524.0,"GCORE, AT",vrrp.gcore.lu
+82.81.82.241,19,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-82-81-82-241.red.bezeqint.net
+212.179.124.185,10,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-179-124-185.cust.bezeqint.net
+212.179.124.122,1,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-179-124-122.cust.bezeqint.net
+195.66.225.227,1,Intermediate,,,NA
+83.169.204.107,1,Intermediate,31133.0,"MF-MGSM-AS PJSC MegaFon, RU",NA
+83.169.204.49,1,Intermediate,31133.0,"MF-MGSM-AS PJSC MegaFon, RU",NA
+78.25.80.190,1,Intermediate,31133.0,"MF-MGSM-AS PJSC MegaFon, RU",NA
+95.59.172.18,1,Intermediate,9198.0,"KAZTELECOM-AS, KZ",95.59.172.18.static.telecom.kz
+95.59.172.39,1,Intermediate,9198.0,"KAZTELECOM-AS, KZ",95.59.172.39.static.telecom.kz
+95.59.172.42,1,Intermediate,9198.0,"KAZTELECOM-AS, KZ",95.59.172.42.static.telecom.kz
+95.59.172.37,1,Intermediate,9198.0,"KAZTELECOM-AS, KZ",95.59.172.37.static.telecom.kz
+95.59.172.26,1,Intermediate,9198.0,"KAZTELECOM-AS, KZ",95.59.172.26.static.telecom.kz
+95.59.172.9,1,Intermediate,9198.0,"KAZTELECOM-AS, KZ",95.59.172.9.static.telecom.kz
+92.47.151.240,1,Intermediate,50482.0,"KAZAKHTELECOM-AS, KZ",NA
+88.204.208.2,1,Intermediate,9198.0,"KAZTELECOM-AS, KZ",NA
+80.241.3.66,1,Intermediate,21282.0,"KAZNIC-AS Internet Service Provider, KZ",NA
+62.219.189.185,9,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-219-189-185.dsl.bezeqint.net
+62.219.189.2,6,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-219-189-2.cablep.bezeqint.net
+62.219.189.57,5,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-219-189-57.cablep.bezeqint.net
+192.16.41.100,0,dest,,,NA
+2a03:90c0:1e5::32,11,sender,199524.0,"GCORE, AT",bzi-anchor.test
+2a03:90c0:1e5::3,11,Intermediate,199524.0,"GCORE, AT",hsrp.gcore.lu
+2001:4cd0:dc00:15::75,2,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",NA
+2001:4cd0:dc:2302::2,6,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",NA
+2001:4cd0:31:d408::2,2,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",NA
+2001:470:0:168::1,2,Intermediate,6939.0,"HURRICANE, US",10gigabitethernet9.switch2.fra1.he.net
+2001:470:0:299::1,3,Intermediate,6939.0,"HURRICANE, US",100ge16-1.core1.ash1.he.net
+2001:470:0:324::2,1,Intermediate,6939.0,"HURRICANE, US",100ge2-1.core1.lax1.he.net
+2607:f380::118:9a40:b3d1,1,Intermediate,2152.0,"CSUNET-NW, US",tus-agg8--lax-agg6-100g-3.cenic.net
+2607:f380::118:9a40:b331,1,Intermediate,2152.0,"CSUNET-NW, US",sdg-agg4--tus-agg8-3x100ge.cenic.net
+2607:f380:1::118:9a41:72b1,1,Intermediate,2152.0,"CSUNET-NW, US",NA
+2001:48d0:101:501::235,1,Intermediate,195.0,"SDSC-AS, US",NA
+2001:4cd0:dc00:15::71,9,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",NA
+2001:4cd0:10:601::1,3,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",NA
+2001:4cd0:11:602::1,3,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",NA
+2001:2000:3019:6c::1,5,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-bb4-v6.telia.net
+2001:2000:3018:90::1,4,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-b1-v6.telia.net
+2001:2000:3080:1ac1::2,2,Intermediate,1299.0,"TELIANET Telia Carrier, SE",gtt-ic-342859-ffm-b1.c.telia.net
+2001:668:0:2:ffff:0:d5c8:753a,2,Intermediate,3257.0,"GTT-BACKBONE GTT, DE",NA
+2001:668:0:3::6000:b2,2,Intermediate,3257.0,"GTT-BACKBONE GTT, DE",surfnet-gw.ip6.gtt.net
+2001:610:e00:2::f1,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",ae26.dt001b-jnx-01.surf.net
+2001:610:e00:2::6a,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",ae21.gv001a-jnx-01.surf.net
+2001:610:f02:2112::116,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",e0-1-1-0.gv009a-jnx-01.surf.net
+2001:610:b08:b0::11,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",NA
+212.179.124.82,4,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-179-124-82.cust.bezeqint.net
+212.179.124.86,3,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-179-124-86.cust.bezeqint.net
+212.179.72.242,4,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-179-72-242.cust.bezeqint.net
+195.66.226.180,1,Intermediate,,,lon-tel-01gw.voxility.net
+5.254.112.198,1,Intermediate,3223.0,"VOXILITY, GB",ams-eq6-01gw.voxility.net
+5.254.73.90,1,Intermediate,3223.0,"VOXILITY, GB",fra-eq5-02gw.voxility.net
+5.254.80.2,1,Intermediate,3223.0,"VOXILITY, GB",vie-in1-01c.voxility.net
+185.1.27.12,1,Intermediate,,,12.sox.rs
+193.105.163.172,1,Intermediate,13004.0,"SOX, RS",ripe-anchors.sox.rs
+2001:4cd0:dc:2303::2,5,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",NA
+2001:2000:3080:3fe::1,2,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-b2-link.telia.net
+2001:1600:4:9:f816:3eff:feee:cda5,1,Intermediate,29222.0,"INFOMANIAK-AS, CH",od-0f4b04.infomaniak.ch
+77.160.115.189,1,sender,1136.0,"KPN KPN National, NL",ip4da073bd.direct-adsl.nl
+192.168.1.1,2,Intermediate,,,NA
+195.190.228.15,1,Intermediate,,,static.kpn.net
+134.222.129.236,2,Intermediate,286.0,"KPN, NL",asd2-rou-1022.NL.eurorings.net
+134.222.48.239,1,Intermediate,286.0,"KPN, NL",asd-s7-rou-1042.NL.eurorings.net
+134.222.48.237,1,Intermediate,286.0,"KPN, NL",asd-s17-rou-1041.NL.eurorings.net
+129.250.2.108,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-18.r25.amstnl02.nl.bb.gin.ntt.net
+129.250.3.76,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-17.r21.frnkge13.de.bb.gin.ntt.net
+129.250.4.185,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-5.r00.frnkge07.de.bb.gin.ntt.net
+213.198.83.166,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",et-0-0-5-0.bbr02.anx82.fra.de.anexia-it.net
+144.208.208.149,1,Intermediate,47147.0,"AS-ANX ANEXIA Internetdienstleistungs GmbH, AT",ae1-0.bbr02.anx25.fra.de.anexia-it.net
+144.208.208.140,1,Intermediate,47147.0,"AS-ANX ANEXIA Internetdienstleistungs GmbH, AT",ae1-0.bbr01.anx84.nue.de.anexia-it.net
+144.208.211.31,1,Intermediate,47147.0,"AS-ANX ANEXIA Internetdienstleistungs GmbH, AT",netcup-gw.bbr01.anx84.nue.de.anexia-it.net
+185.244.192.10,1,Intermediate,197540.0,"NETCUP-AS netcup GmbH, DE",ptr.10.192.244.185.static.yourvserver.net
+2a02:a444:7a3b:1:280:a3ff:fe91:3e52,1,sender,1136.0,"KPN KPN National, NL",NA
+2001:67c:2502:f100::2:f,1,Intermediate,,,NA
+2001:7f8:13::a500:1136:1,1,Intermediate,,,kpn-as1136.kpn-asd-dc2.nlsix.net
+2001:7f8:13::a500:6939:1,1,Intermediate,,,hurricane-electric.nikhef.nlsix.net
+2001:470:0:114::1,1,Intermediate,6939.0,"HURRICANE, US",100ge8-2.core1.atl1.he.net
+2001:470:0:285::2,1,Intermediate,6939.0,"HURRICANE, US",100ge5-1.core1.tpa1.he.net
+2001:470:0:2b3::1,1,Intermediate,6939.0,"HURRICANE, US",100ge12-1.core1.mia1.he.net
+2a03:90c0:c3::231,1,Intermediate,199524.0,"GCORE, AT",NA
+2a03:4d41:300:1::2,1,Intermediate,199610.0,"MARBIS, DE",NA
+160.36.59.129,2,sender,3450.0,"UTK, US",atlas0.eecs.utk.edu
+160.36.56.3,1,Intermediate,3450.0,"UTK, US",NA
+10.8.2.229,1,Intermediate,,,NA
+160.36.2.201,1,Intermediate,3450.0,"UTK, US",brxk01-xe-1-1-6-0.ns.utk.edu
+160.36.2.41,1,Intermediate,3450.0,"UTK, US",soxi2-to-utk.ns.utk.edu
+160.36.2.42,1,Intermediate,3450.0,"UTK, US",utk-to-soxi2-100g.ns.utk.edu
+143.215.193.2,1,Intermediate,2637.0,"GEORGIA-TECH, US",i2-to-sox-100g.sox.net
+198.71.45.7,1,Intermediate,11537.0,"ABILENE, US",ae-4.4079.rtsw.wash.net.internet2.edu
+162.252.70.139,1,Intermediate,11537.0,"ABILENE, US",ae-5.4079.rtsw.newy32aoa.net.internet2.edu
+64.57.28.66,1,Intermediate,11537.0,"ABILENE, US",v3-6-8.120.xsr03.amsterdam1a.surf.net
+80.249.209.1,1,Intermediate,,,rtr-glo-02.ams-ix.net
+91.200.16.69,1,Intermediate,1200.0,"AMS-IX1, NL",nl-ams-as1200.anchors.atlas.ripe.net
+188.162.38.164,1,sender,31133.0,"MF-MGSM-AS PJSC MegaFon, RU",client.yota.ru
+192.168.0.1,2,Intermediate,,,NA
+192.168.8.1,1,Intermediate,,,NA
+174.49.121.158,1,sender,7922.0,"COMCAST-7922, US",c-174-49-121-158.hsd1.ga.comcast.net
+96.120.6.77,1,Intermediate,7922.0,"COMCAST-7922, US",NA
+96.110.70.229,1,Intermediate,7922.0,"COMCAST-7922, US",NA
+162.151.89.145,1,Intermediate,7922.0,"COMCAST-7922, US",ae-34-ar01.b0atlanta.ga.atlanta.comcast.net
+68.86.93.125,1,Intermediate,7922.0,"COMCAST-7922, US",be-7725-cr02.56marietta.ga.ibone.comcast.net
+96.110.32.73,1,Intermediate,7922.0,"COMCAST-7922, US",be-1202-cs02.56marietta.ga.ibone.comcast.net
+96.110.32.90,1,Intermediate,7922.0,"COMCAST-7922, US",be-2201-pe01.56marietta.ga.ibone.comcast.net
+62.115.125.190,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ash-bb3-link.telia.net
+62.115.114.99,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-bb2-link.telia.net
+62.115.114.91,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-b5-link.telia.net
+213.239.224.6,1,Intermediate,24940.0,"HETZNER-AS, DE",ex9k2.dc13.fsn1.hetzner.com
+213.133.109.134,1,Intermediate,24940.0,"HETZNER-AS, DE",ctr-nue17.atlas.ripe.net
+217.91.41.2,3,sender,3320.0,"DTAG Internet service provider operations, DE",pd95b2902.dip0.t-ipconnect.de
+130.180.26.185,3,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",b2b-130-180-26-185.unitymedia.biz
+81.210.147.92,3,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",ip-81-210-147-92.hsi17.unitymediagroup.de
+84.116.196.202,3,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",de-byd01a-rd02-ae-0-0.aorta.net
+84.116.197.73,3,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",de-fra01b-rc1-ae-26-0.aorta.net
+84.116.134.162,1,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",de-fra01b-ri2-ae-29-0.aorta.net
+213.46.177.10,1,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",NA
+62.115.114.88,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-bb1-link.telia.net
+62.115.123.13,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",prs-bb3-link.telia.net
+62.115.112.242,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ash-bb2-link.telia.net
+62.115.114.225,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",atl-b21-link.telia.net
+144.202.18.114,1,Intermediate,20473.0,"AS-CHOOPA, US",144.202.18.114.vultr.com
+84.116.135.61,1,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",de-fra02a-rc1-ae-22-0.aorta.net
+84.116.134.193,1,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",de-fra11b-rc1-ae-1-0.aorta.net
+84.116.135.6,1,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",cz-prg01a-ra4-ae-33-0.aorta.net
+84.116.135.226,1,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",cz-prg01a-ri1-ae-1-0.aorta.net
+91.210.16.213,1,Intermediate,,,xe0-3-0.r1.prg.lroot.dns.icann.org
+62.219.189.6,3,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-219-189-6.dsl.bezeqint.net
+212.113.15.77,2,Intermediate,3356.0,"LEVEL3, US",ae55.edge3.London1.Level3.net
+4.69.148.222,1,Intermediate,3356.0,"LEVEL3, US",ae-2-3214.edge5.London1.Level3.net
+129.250.9.125,2,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-3.a00.londen12.uk.bb.gin.ntt.net
+129.250.2.137,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-16.r04.londen12.uk.bb.gin.ntt.net
+129.250.4.125,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-4.r24.londen12.uk.bb.gin.ntt.net
+129.250.6.147,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-7.r20.nwrknj03.us.bb.gin.ntt.net
+129.250.6.17,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-0.r21.nwrknj03.us.bb.gin.ntt.net
+129.250.2.166,2,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-1.r20.chcgil09.us.bb.gin.ntt.net
+129.250.6.61,2,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-6.r07.chcgil09.us.bb.gin.ntt.net
+204.42.254.42,2,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",NA
+2001:4cd0:31:d405::1,1,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",NA
+2001:2000:3019:6b::1,5,Intermediate,1299.0,"TELIANET Telia Carrier, SE",NA
+2001:2000:3080:f2c::2,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",level3-ic-319606-ffm-b1.c.telia.net
+2001:1900:2::3:116,1,Intermediate,3356.0,"LEVEL3, US",lo-0-v6.bear1.Manchesteruk2.Level3.net
+2001:1900:5:2:2::51ca,1,Intermediate,3356.0,"LEVEL3, US",AQ-LIMITED.bear1.Manchesteruk2.Level3.net
+2a00:1a80:ff:fffe::7,1,Intermediate,33920.0,"AQL, GB",NA
+2a00:1a80:0:2::2,1,Intermediate,33920.0,"AQL, GB",NA
+2a00:1a80:1:c::4,1,Intermediate,33920.0,"AQL, GB",NA
+62.219.189.78,2,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-219-189-78.cablep.bezeqint.net
+80.249.208.68,1,Intermediate,,,gw.amsix.eqix3rtr.ripe.net
+62.219.189.73,3,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-219-189-73.dsl.bezeqint.net
+193.201.28.14,1,Intermediate,,,convergenze-nap.namex.it
+94.101.60.149,1,Intermediate,39120.0,"CONVERGENZE-AS ISP services in Italy, IT",host149-60-101-94.convergenze.it
+193.201.40.210,1,Intermediate,24796.0,"NAMEX-IXP Nautilus Mediterranean Exchange Point, IT",it-rom-as24796.anchors.atlas.ripe.net
+213.212.129.68,16,sender,12779.0,"ITGATE, IT",it-trn-as12779.anchors.atlas.ripe.net
+213.212.129.66,16,Intermediate,12779.0,"ITGATE, IT",NA
+213.254.0.3,1,Intermediate,12779.0,"ITGATE, IT",be1.scooby-monster.core.TRN.itgate.net
+46.33.86.65,1,Intermediate,3257.0,"GTT-BACKBONE GTT, DE",xe-5-2-2.cr0-trn3.ip4.gtt.net
+89.149.183.121,1,Intermediate,3257.0,"GTT-BACKBONE GTT, DE",et-5-3-0.cr1-mil2.ip4.gtt.net
+46.33.88.102,1,Intermediate,3257.0,"GTT-BACKBONE GTT, DE",as6453.mil21.ip4.gtt.net
+5.23.30.21,1,Intermediate,6453.0,"AS6453, US",if-ae-45-2.tcore1.fnm-frankfurt.as6453.net
+195.219.194.149,1,Intermediate,6453.0,"AS6453, US",if-ae-6-2.tcore1.av2-amsterdam.as6453.net
+80.231.50.13,1,Intermediate,6453.0,"AS6453, US",NA
+185.120.162.6,0,dest,8868.0,"IRCDN, IR",NA
+80.81.192.228,1,Intermediate,,,gi-0-1-0.emix.net.ae
+195.229.1.142,1,Intermediate,8966.0,"ETISALAT-AS P.O. Box 1150, Dubai, U, AE",NA
+195.229.31.4,1,Intermediate,8966.0,"ETISALAT-AS P.O. Box 1150, Dubai, U, AE",csk004.emirates.net.ae
+195.229.27.46,1,Intermediate,8966.0,"ETISALAT-AS P.O. Box 1150, Dubai, U, AE",NA
+79.98.121.73,0,dest,47201.0,"AEDA, AE",ns-lb0.ns.almaf.abudhabi.aeda.net.ae
+2001:1418:10:a::44,13,sender,12779.0,"ITGATE, IT",it-trn-as12779.anchors.atlas.ripe.net
+2001:1418:10:a::1,13,Intermediate,12779.0,"ITGATE, IT",NA
+2001:1418:1:b00::12,3,Intermediate,12779.0,"ITGATE, IT",be3.Henninger.core.FRA.ipv6.ITgate.net
+2001:500:83::1,1,Intermediate,42.0,"WOODYNET-1, US",j.ca-servers.ca
+2001:1418:1:101::5,3,Intermediate,12779.0,"ITGATE, IT",be1.scrappy-monster.core.TRN.ipv6.ITgate.net
+2001:1418:1:1f00::12,2,Intermediate,12779.0,"ITGATE, IT",if-0-0-0-0.Amstel.core.AMS.ipv6.ITgate.net
+2001:7f8:1::a500:2119:1,1,Intermediate,,,ti9000b400.ti.telenor.net
+2001:4600:0:100::29,1,Intermediate,2119.0,"TELENOR-NEXTEL Telenor Norge AS, NO",ti3003c400-lo0-0.ti.telenor.net
+2001:4600::1,1,Intermediate,2119.0,"TELENOR-NEXTEL Telenor Norge AS, NO",ti6000b400-lo0-0.ti.telenor.net
+2001:4600:10::7a,1,Intermediate,2119.0,"TELENOR-NEXTEL Telenor Norge AS, NO",cybercity-3.ti.telenor.net
+2001:1580:0:180b::1,1,Intermediate,9158.0,"TELENOR_DANMARK_AS, DK",NA
+2001:1580:0:180b::2,1,Intermediate,9158.0,"TELENOR_DANMARK_AS, DK",NA
+2001:1580:0:180d::122,1,Intermediate,9158.0,"TELENOR_DANMARK_AS, DK",a.nic.dk
+2001:500:14:6046:ad::1,1,Intermediate,42.0,"WOODYNET-1, US",hk-ns.pch.net
+2001:7f8:1::a500:2603:1,2,Intermediate,,,NA
+2001:948:1:12::1e,1,Intermediate,2603.0,"NORDUNET, NO",de-hmb.nordu.net
+2001:948:1:12::20,1,Intermediate,2603.0,"NORDUNET, NO",dk-ore.nordu.net
+2001:948:1:28::3,1,Intermediate,2603.0,"NORDUNET, NO",se-sthb.nordu.net
+2001:948:1:12::a,1,Intermediate,2603.0,"NORDUNET, NO",se-tug.nordu.net
+2001:948:3:a::3,1,Intermediate,2603.0,"NORDUNET, NO",helsinki3.ip.funet.fi
+2001:708:0:bad:c0de:ffff:ffff:f8,1,Intermediate,1741.0,"FUNETAS, FI",helsinki2-et-1-1-0-1.ip.funet.fi
+2001:708:0:bad:c0de:ffff:ffff:fa,1,Intermediate,1741.0,"FUNETAS, FI",espoo1-et-0-1-0-1.ip.funet.fi
+2001:708:10:53::53,1,Intermediate,1741.0,"FUNETAS, FI",tld.ficora.fi
+2001:4cd0:11:501::1,1,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",NA
+2001:4cd0:31:e405::1,2,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",NA
+2001:2000:3018:4a::1,2,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-b12-v6.telia.net
+2001:2000:3080:14f1::2,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",geant-ic-326862-ffm-b12.c.telia.net
+2001:798:1::a6,1,Intermediate,21320.0,"GEANT_IAS_VRF, GB",restena-ias-restena-gw.mx1.fra.de.geant.net
+2001:a18:0:505::3,1,Intermediate,2602.0,"RESTENA Reseau Teleinformatique de l_Education Nationale, LU",gate-1-v705.luco.restena.lu
+2001:a18:0:ff1c::2,1,Intermediate,2602.0,"RESTENA Reseau Teleinformatique de l_Education Nationale, LU",gate-2-v167.belval.restena.lu
+2001:a18:0:b05::3,1,Intermediate,2602.0,"RESTENA Reseau Teleinformatique de l_Education Nationale, LU",gate-3-v40.belval.restena.lu
+2001:a18:0:409::2,1,Intermediate,2602.0,"RESTENA Reseau Teleinformatique de l_Education Nationale, LU",NA
+195.219.100.129,1,Intermediate,6453.0,"AS6453, US",ix-ae-14-0.thar1.lrt-london.as6453.net
+80.231.20.107,1,Intermediate,6453.0,"AS6453, US",if-ae-32-3.tcore2.nto-new-york.as6453.net
+66.110.96.5,1,Intermediate,6453.0,"AS6453, US",if-ae-12-2.tcore1.n75-new-york.as6453.net
+66.110.96.146,1,Intermediate,6453.0,"AS6453, US",NA
+68.86.83.89,1,Intermediate,7922.0,"COMCAST-7922, US",be-10390-cr02.newyork.ny.ibone.comcast.net
+68.86.85.202,1,Intermediate,7922.0,"COMCAST-7922, US",be-10305-cr02.350ecermak.il.ibone.comcast.net
+68.86.85.170,1,Intermediate,7922.0,"COMCAST-7922, US",be-10521-cr02.1601milehigh.co.ibone.comcast.net
+68.86.90.74,1,Intermediate,7922.0,"COMCAST-7922, US",ae0-0-ar03-d.cmc.co.ndcwest.comcast.net
+162.151.85.70,1,Intermediate,7922.0,"COMCAST-7922, US",ae-2-0-ar03-d.potomac.co.ndcwest.comcast.net
+162.151.57.122,1,Intermediate,7922.0,"COMCAST-7922, US",be-100-ur05-d.potomac.co.ndcwest.comcast.net
+76.26.120.98,1,Intermediate,7922.0,"COMCAST-7922, US",ipeatlas-po-a1p.sys.comcast.net
+212.179.124.153,1,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-179-124-153.cust.bezeqint.net
+80.81.193.138,1,Intermediate,,,decix.sdv.fr
+213.225.160.239,1,Intermediate,8839.0,"SDV-AS SdV Plurimedia, FR",fr-sxb-as8839.anchors.atlas.ripe.net
+212.179.124.249,1,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-179-124-249.cust.bezeqint.net
+212.179.161.217,3,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-161-217.pop.bezeqint.net
+80.81.195.181,1,Intermediate,,,de-cix.as33922.net
+84.32.142.178,1,Intermediate,33922.0,"NTT-LT-AS, LT",NA
+62.80.224.100,1,Intermediate,25406.0,"SPLIUS-AS, LT",sl-100.splius.lt
+62.80.227.146,1,Intermediate,25406.0,"SPLIUS-AS, LT",hst-227-146.splius.lt
+2003:ca:2f14:7600:220:4aff:fee0:21ff,2,sender,3320.0,"DTAG Internet service provider operations, DE",p200300CA2F14760002204AFFFEE021FF.dip0.t-ipconnect.de
+2003:ca:2f14:7600:464e:6dff:fead:59e2,2,Intermediate,3320.0,"DTAG Internet service provider operations, DE",p200300CA2F147600464E6DFFFEAD59E2.dip0.t-ipconnect.de
+2003:0:8200:a000::1,2,Intermediate,3320.0,"DTAG Internet service provider operations, DE",NA
+2001:470:0:45d::2,2,Intermediate,6939.0,"HURRICANE, US",dtag-as3320.100gigabitethernet11-2.core1.fra2.he.net
+2001:470:0:45d::1,2,Intermediate,6939.0,"HURRICANE, US",100gigabitethernet10-1.core1.fra2.he.net
+2001:1600:4:9:f816:3eff:feee:cdc,1,Intermediate,29222.0,"INFOMANIAK-AS, CH",od-f4f6de.infomaniak.ch
+2001:7f8:c5::a500:6939:1,3,Intermediate,,,he.minap.it
+2001:470:0:3fe::1,3,Intermediate,6939.0,"HURRICANE, US",100ge5-2.core1.zrh2.he.net
+2001:470:0:3fd::2,3,Intermediate,6939.0,"HURRICANE, US",100ge15-1.core1.fra1.he.net
+2001:470:0:3a7::2,1,Intermediate,6939.0,"HURRICANE, US",100ge4-1.core1.lux1.he.net
+2001:678:4::e,1,Intermediate,42909.0,"COMMUNITYDNS, GB",e.fi
+80.81.196.21,1,Intermediate,,,080-081-196-021.pas-37028.de-cix.fra.de.as20473.choopa.com
+202.12.31.53,1,Intermediate,18366.0,"APNIC-ANYCAST-AP ANYCAST AS, AU",ns4.apnic.net
+217.29.66.125,2,Intermediate,,,he.mix-it.net
+184.105.80.14,1,Intermediate,6939.0,"HURRICANE, US",100ge14-1.core1.mrs1.he.net
+184.105.222.21,1,Intermediate,6939.0,"HURRICANE, US",100ge4-2.core1.par2.he.net
+184.105.81.77,1,Intermediate,6939.0,"HURRICANE, US",100ge14-1.core1.nyc4.he.net
+184.105.81.218,1,Intermediate,6939.0,"HURRICANE, US",100ge8-1.core1.sjc2.he.net
+72.52.92.117,1,Intermediate,6939.0,"HURRICANE, US",10ge4-4.core1.sjc1.he.net
+216.218.196.186,1,Intermediate,6939.0,"HURRICANE, US",he-gw.kolo.net
+74.123.224.40,1,Intermediate,18865.0,"AS-INTUIX, US",ua-in1.na.kolo.net
+80.81.192.176,1,Intermediate,,,rt.dns-de2.denic.de
+185.151.141.1,1,Intermediate,31529.0,"DENIC-ANYCAST-AS DNS anycast AS object for .DE DNS service, DE",x.dns.eu
+2003:c7:ef47:900:f6f2:6dff:fe5d:bf20,1,sender,3320.0,"DTAG Internet service provider operations, DE",p200300C7EF470900F6F26DFFFE5DBF20.dip0.t-ipconnect.de
+2003:c7:ef47:900::1,1,Intermediate,3320.0,"DTAG Internet service provider operations, DE",p200300C7EF4709000000000000000001.dip0.t-ipconnect.de
+2003:0:8301:3000::1,1,Intermediate,3320.0,"DTAG Internet service provider operations, DE",NA
+2001:2000:3080:104f::2,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",dtag-ic-319284-ffm-b4.c.telia.net
+2001:2000:3080:104f::1,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-b4-link.telia.net
+2001:2000:3019:bb::1,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",prag-bb1-v6.telia.net
+2001:2000:3018:26::1,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",win-b4-v6.telia.net
+2001:2000:3080:14f3::2,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",geant-ic-326864-win-b4.c.telia.net
+2001:1470:a:60::b,1,Intermediate,2107.0,"ARNES-NET Academic and Research Network of Slovenia, SI",NA
+2001:1470:a:10::b,1,Intermediate,2107.0,"ARNES-NET Academic and Research Network of Slovenia, SI",NA
+2001:1470:8000:603::12,1,Intermediate,2107.0,"ARNES-NET Academic and Research Network of Slovenia, SI",NA
+82.168.130.200,3,sender,1136.0,"KPN KPN National, NL",static.kpn.net
+192.168.2.254,3,Intermediate,,,NA
+195.190.228.107,3,Intermediate,,,NA
+139.156.98.100,2,Intermediate,,,NA
+195.121.0.78,1,Intermediate,8737.0,"PT, NL",nl-asd-dc2-isp-bb21.kpn.net
+194.109.5.1,1,Intermediate,3265.0,"XS4ALL-NL Amsterdam, NL",0.et-1-1-0.xr1.sara.xs4all.net
+194.109.7.6,1,Intermediate,3265.0,"XS4ALL-NL Amsterdam, NL",140.ae0.junix.ams-ix.net
+91.200.16.11,1,Intermediate,1200.0,"AMS-IX1, NL",ve111.fw-eun.ams-ix.net
+185.55.136.60,1,Intermediate,1200.0,"AMS-IX1, NL",lb.ams-ix.net
+134.222.129.239,1,Intermediate,286.0,"KPN, NL",nl-rt2-pice-ir01.kpn.net
+134.222.129.238,1,Intermediate,286.0,"KPN, NL",rt2-rou-1022.NL.eurorings.net
+134.222.48.15,1,Intermediate,286.0,"KPN, NL",asd-s8-rou-1041.NL.eurorings.net
+94.142.107.40,1,Intermediate,12956.0,"TELEFONICA TELXIUS, ES",NA
+5.53.3.19,1,Intermediate,12956.0,"TELEFONICA TELXIUS, ES",NA
+176.52.248.88,1,Intermediate,12956.0,"TELEFONICA TELXIUS, ES",NA
+213.140.51.61,1,Intermediate,12956.0,"TELEFONICA TELXIUS, ES",NA
+62.53.1.35,1,Intermediate,6805.0,"TDDE-ASN1, DE",ae3-0.0001.dbrx.02.dus.de.net.telefonica.de
+62.53.0.26,1,Intermediate,6805.0,"TDDE-ASN1, DE",ae1-0.0002.corx.02.dus.de.net.telefonica.de
+62.53.0.16,1,Intermediate,6805.0,"TDDE-ASN1, DE",ae12-0.0001.corx.06.ham.de.net.telefonica.de
+62.53.14.245,1,Intermediate,6805.0,"TDDE-ASN1, DE",ae0-0.0002.dbrx.02.ham.de.net.telefonica.de
+62.53.1.105,1,Intermediate,6805.0,"TDDE-ASN1, DE",te1-3-0.0001.burx.02.ham.de.net.telefonica.de
+178.255.128.27,3,sender,29605.0,"BCS 32 rue Delizy, FR",ripe-probe.svc-ext.bcstechno.net
+178.255.128.25,2,Intermediate,29605.0,"BCS 32 rue Delizy, FR",vlan-603.core-eqx-gw3.core.bcstechno.net
+184.164.250.1,0,dest,,,NA
+178.255.128.240,2,Intermediate,29605.0,"BCS 32 rue Delizy, FR",xe-1-1-0-104.core-eqx-gw1.core.bcstechno.net
+81.52.179.27,1,Intermediate,,,hundredgige0-0-0-6-109.partr1.-.opentransit.net
+193.251.242.160,1,Intermediate,,,et-17-0-0-0.pastr3.-.opentransit.net
+81.52.200.212,1,Intermediate,5511.0,"OPENTRANSIT, FR",NA
+129.250.66.141,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-26.r04.parsfr01.fr.bb.gin.ntt.net
+129.250.4.137,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-23.r24.amstnl02.nl.bb.gin.ntt.net
+129.250.4.69,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-3.r25.amstnl02.nl.bb.gin.ntt.net
+129.250.6.162,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-5.r23.asbnva02.us.bb.gin.ntt.net
+129.250.2.87,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-1.r20.miamfl02.us.bb.gin.ntt.net
+129.250.3.142,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-10.r04.miamfl02.us.bb.gin.ntt.net
+168.143.228.193,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-14-602.r04.miamfl02.us.ce.gin.ntt.net
+109.230.214.3,1,Intermediate,199610.0,"MARBIS, DE",NA
+80.81.192.7,1,Intermediate,,,rt-decix-2.m-online.net
+82.135.16.173,1,Intermediate,8767.0,"MNET-AS Germany, DE",ae1.r2.muc7.m-online.net
+62.245.181.100,1,Intermediate,8767.0,"MNET-AS Germany, DE",NA
+154.54.38.210,1,Intermediate,174.0,"COGENT-174, US",be2816.ccr42.ham01.atlas.cogentco.com
+130.117.3.238,1,Intermediate,174.0,"COGENT-174, US",be2306.rcr21.cph01.atlas.cogentco.com
+154.25.2.222,1,Intermediate,174.0,"COGENT-174, US",be3634.nr51.b015758-1.cph01.atlas.cogentco.com
+149.6.137.98,1,Intermediate,174.0,"COGENT-174, US",NA
+149.6.137.99,1,Intermediate,174.0,"COGENT-174, US",NA
+185.38.27.194,1,Intermediate,62113.0,"KRACON-AS, DK",NA
+63.146.27.101,1,Intermediate,209.0,"CENTURYLINK-US-LEGACY-QWEST, US",los-brdr-01.inet.qwest.net
+214.40.16.82,1,Intermediate,27064.0,"DNIC-ASBLK-27032-27159, US",NA
+192.112.36.4,0,dest,5927.0,"DNIC-ASBLK-05800-06055, US",G.ROOT-SERVERS.NET
+2a01:190:1764:e2::2,1,Intermediate,1764.0,"NEXTLAYER-AS, AT",NA
+2001:550:0:1000::9a36:24fd,1,Intermediate,174.0,"COGENT-174, US",be2960.ccr42.fra03.atlas.cogentco.com
+2001:550:0:1000::9a36:2692,1,Intermediate,174.0,"COGENT-174, US",be2377.rcr21.lux01.atlas.cogentco.com
+2001:550:0:1000::9a19:7d6,1,Intermediate,174.0,"COGENT-174, US",te0-0-2-0.nr11.b022998-0.lux01.atlas.cogentco.com
+2001:978:2:4c::12:2,1,Intermediate,174.0,"COGENT-174, US",NA
+2001:67c:9c:3937::254,1,Intermediate,35733.0,"EURID ASN for EURid, BE",NA
+2a01:190:1764:e3::2,3,Intermediate,1764.0,"NEXTLAYER-AS, AT",NA
+2001:728:0:5000::20d,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-6.r00.vienat01.at.bb.gin.ntt.net
+2001:728:0:2000::11d,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-18.r21.frnkge13.de.bb.gin.ntt.net
+2001:728:0:2000::69,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-1.r25.frnkge13.de.bb.gin.ntt.net
+2001:728:0:2000::102,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-3.r20.sngpsi07.sg.bb.gin.ntt.net
+2001:218:0:2000::85,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-1.r00.sngpsi07.sg.bb.gin.ntt.net
+2001:218:0:2000::1a5,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-0.a01.sngpsi07.sg.bb.gin.ntt.net
+2001:218:4000:5000::286,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",xe-0-0-13-3.a01.sngpsi07.sg.ce.gin.ntt.net
+2403:cd40:1:9::,1,Intermediate,10075.0,"FGL-AS-BD Fiber@Home Global Limited, BD",NA
+2403:cd40:1::,1,Intermediate,10075.0,"FGL-AS-BD Fiber@Home Global Limited, BD",NA
+2403:cd40:101:6::1,1,Intermediate,10075.0,"FGL-AS-BD Fiber@Home Global Limited, BD",NA
+2403:4000:0:1::e,7,Intermediate,24122.0,"BDCOM-BD-AS-AP BDCOM Online Limited, BD",NA
+2403:4000:0:1::d,7,Intermediate,24122.0,"BDCOM-BD-AS-AP BDCOM Online Limited, BD",NA
+2403:4000:20:1::5,0,dest,24122.0,"BDCOM-BD-AS-AP BDCOM Online Limited, BD",NA
+2001:550:0:1000::9a36:3bbe,1,Intermediate,174.0,"COGENT-174, US",be3464.ccr51.beg03.atlas.cogentco.com
+2001:550:0:1000::8275:5d,1,Intermediate,174.0,"COGENT-174, US",be3421.ccr31.sof02.atlas.cogentco.com
+2001:550:0:1000::9a36:3949,1,Intermediate,174.0,"COGENT-174, US",be3348.rcr21.ist01.atlas.cogentco.com
+2001:978:2:a1::7:2,1,Intermediate,174.0,"COGENT-174, US",NA
+2a03:90c0:161:1:253::227,1,Intermediate,199524.0,"GCORE, AT",NA
+2a03:90c0:164::49,1,Intermediate,199524.0,"GCORE, AT",tii-anchor.test
+2001:470:0:22a::1,1,Intermediate,6939.0,"HURRICANE, US",100ge11-2.core1.sea1.he.net
+2001:504:16::3413,1,Intermediate,,,v6-six.metapeer.com
+2620:11c:5000:ffff::f2,1,Intermediate,13331.0,"METAPEER-INC, US",NA
+2620:11c:5001:ffff::a1,1,Intermediate,13331.0,"METAPEER-INC, US",NA
+2620:11c:5001:ffff::a8,1,Intermediate,13331.0,"METAPEER-INC, US",NA
+2620:11c:5001:1118::2:1,1,Intermediate,13331.0,"METAPEER-INC, US",NA
+213.208.148.109,5,Intermediate,1764.0,"NEXTLAYER-AS, AT",NA
+92.60.0.211,3,Intermediate,,,ae13-0-r10.tnz.sbg.nextlayer.net
+92.60.2.15,1,Intermediate,,,ae11-0-r60.inx.fra.nextlayer.net
+80.81.194.79,1,Intermediate,,,080-081-194-079.pas-3143.de-cix.fra.de.as31027.globalconnect.dk
+93.176.94.194,1,Intermediate,31027.0,"GLOBALCONNECT-AS, DK",NA
+93.176.81.82,1,Intermediate,31027.0,"GLOBALCONNECT-AS, DK",nianet.r1.dk-hostmaster.dk
+193.163.102.206,1,Intermediate,39839.0,"DK-HOSTMASTER The .DK TLD Registry, DK",anchor.dk-hostmaster.dk
+80.81.193.42,1,Intermediate,,,GW-FF1.tw1.com
+110.93.255.174,1,Intermediate,,,tw255-static174.tw1.com
+110.93.252.191,1,Intermediate,,,NA
+110.93.252.98,1,Intermediate,,,NA
+119.63.134.94,1,Intermediate,38193.0,"TWA-AS-AP Transworld Associates (Pvt.) Ltd., PK",tw134-static94.tw1.com
+210.56.8.180,1,Intermediate,7590.0,"COMSATS Commission on Science and Technology for, PK",NA
+210.56.11.202,1,Intermediate,7590.0,"COMSATS Commission on Science and Technology for, PK",NA
+2a01:190:1764:e1::2,2,Intermediate,1764.0,"NEXTLAYER-AS, AT",NA
+2001:2000:3080:27a::1,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",win-b1-link.telia.net
+2001:2000:3019:b9::1,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",win-bb3-v6.telia.net
+2001:2000:3019:bf::1,3,Intermediate,1299.0,"TELIANET Telia Carrier, SE",prs-bb3-v6.telia.net
+2001:2000:3019:74::1,2,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ash-bb2-v6.telia.net
+2001:2000:3018:df::1,2,Intermediate,1299.0,"TELIANET Telia Carrier, SE",atl-b24-v6.telia.net
+2001:2000:3018:e0::1,2,Intermediate,1299.0,"TELIANET Telia Carrier, SE",dls-b23-v6.telia.net
+2001:2000:3018:d4::1,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",mex-b1-v6.telia.net
+2001:2000:3080:185d::2,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",anexia-ic-350451-mex-b1.c.telia.net
+2803:ad80:0:aa3::a,1,Intermediate,42473.0,"AS-ANEXIA ANEXIA Internetdienstleistungs GmbH, AT",NA
+80.81.195.64,1,Intermediate,,,ipv4.de-cix.fra.de.as32425.pixelfactorydc.com
+208.73.136.156,1,Intermediate,32425.0,"SKB3-ARIN-BGP, US",sw-pxf-mmr-n3k1.pxfactorydc.net
+208.73.136.45,1,Intermediate,32425.0,"SKB3-ARIN-BGP, US",sw-pxf-t1-mng.v986.xe.pxfactorydc.net
+208.73.138.12,1,Intermediate,32425.0,"SKB3-ARIN-BGP, US",NA
+184.164.253.1,0,dest,,,NA
+2001:1900:5:2:2::1db5,1,Intermediate,3356.0,"LEVEL3, US",ge-5-1-0.edge6.Paris1.Level3.net
+2001:1900::3:18c,1,Intermediate,3356.0,"LEVEL3, US",lo-0-v6.ear2.Paris1.Level3.net
+2001:1900:5:2:2::336a,1,Intermediate,3356.0,"LEVEL3, US",ASTRIUM-SCE.ear1.Paris1.Level3.net
+2a02:6600:2:f::24e,0,dest,5377.0,"MARLINK-EMEA, NO",NA
+62.216.209.149,1,sender,8767.0,"MNET-AS Germany, DE",aftr-62-216-209-149.dynamic.mnet-online.de
+192.168.22.1,1,Intermediate,,,NA
+62.245.142.157,1,Intermediate,8767.0,"MNET-AS Germany, DE",host-62-245-142-157.customer.m-online.net
+62.245.142.155,1,Intermediate,8767.0,"MNET-AS Germany, DE",host-62-245-142-155.customer.m-online.net
+212.18.6.185,1,Intermediate,8767.0,"MNET-AS Germany, DE",ae0.rt-decix-2.m-online.net
+213.198.77.233,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-51.a01.frnkge13.de.bb.gin.ntt.net
+129.250.4.98,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-19.r20.frnkge13.de.bb.gin.ntt.net
+129.250.3.195,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-11.r00.buchro01.ro.bb.gin.ntt.net
+83.217.231.42,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",NA
+212.156.139.5,1,Intermediate,9121.0,"TTNET, TR",00-gayrettepe-xrs-t2-2---308-buk-col-1.statik.turktelekom.com.tr
+81.212.208.56,1,Intermediate,9121.0,"TTNET, TR",00-fatih-t2-1---00-gayrettepe-xrs-t2-2.statik.turktelekom.com.tr
+212.156.251.211,1,Intermediate,9121.0,"TTNET, TR",00-fatih-t3-5---00-fatih-t2-1.statik.turktelekom.com.tr
+85.102.216.1,1,Intermediate,9121.0,"TTNET, TR",85.102.216.1.dynamic.ttnet.com.tr
+195.66.226.161,1,Intermediate,,,linx.ix.geant.net
+62.40.98.105,1,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",ae1.mx2.lis.pt.geant.net
+83.97.88.210,1,Intermediate,21320.0,"GEANT_IAS_VRF, GB",fccn-ias-fccn-gw.mx2.lis.pt.geant.net
+193.137.0.8,1,Intermediate,1930.0,"RCCN Fundacao para a Ciencia e a Tecnologia, I.P., PT",ROUTER10.10GE.CR1.Lisboa.fccn.pt
+193.137.2.26,1,Intermediate,1930.0,"RCCN Fundacao para a Ciencia e a Tecnologia, I.P., PT",gtadns.fccn.pt
+185.39.208.250,0,dest,199993.0,"DNS, PT",ppdac-s1.wan.dns.pt
+2001:4cd0:31:e407::1,1,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",NA
+2001:4cd0:11:210::1,2,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",NA
+2001:610:e00:2::2f,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",ae23.zl001a-jnx-01.surf.net
+2001:610:e00:2::39,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",ae24.nm001a-jnx-01.surf.net
+2001:610:f00:4040::41,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",e0-0-3-0.es001a-jnx-01.surf.net
+2001:610:f00:4040::42,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",utwente-router.customer.surf.net
+2001:67c:2564:aa07::233,1,Intermediate,1133.0,"UTWENTE-AS University Twente, NL",NA
+2001:67c:2564:a170:0:24ff:fed1:5dc4,1,Intermediate,1133.0,"UTWENTE-AS University Twente, NL",NA
+2001:4cd0:31:e410::1,1,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",NA
+2001:2000:3080:14dd::2,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",versatel-ic-326759-ffm-b1.c.telia.net
+2001:1438:0:1::7:2c2,1,Intermediate,8881.0,"VERSATEL, DE",NA
+2001:1438:500:6::2,1,Intermediate,8881.0,"VERSATEL, DE",NA
+2a01:55e4:10:4::a,1,Intermediate,201709.0,"HANDS, DE",NA
+212.179.124.190,1,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-179-124-190.cust.bezeqint.net
+46.33.89.237,1,Intermediate,3257.0,"GTT-BACKBONE GTT, DE",ae8.cr1-fra2.ip4.gtt.net
+89.149.136.121,1,Intermediate,3257.0,"GTT-BACKBONE GTT, DE",et-0-0-19.cr10-fra2.ip4.gtt.net
+46.33.83.254,1,Intermediate,3257.0,"GTT-BACKBONE GTT, DE",ip4.gtt.net
+129.250.6.41,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-2.r21.frnkge13.de.bb.gin.ntt.net
+129.250.3.18,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-5.r00.frnkge06.de.bb.gin.ntt.net
+213.198.72.202,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",xe-0-2-0-2-6.r00.frnkge06.de.ce.gin.ntt.net
+185.138.141.130,1,Intermediate,203329.0,"ESHELTER, DE",NA
+185.138.143.34,1,Intermediate,203329.0,"ESHELTER, DE",NA
+4.69.148.218,1,Intermediate,3356.0,"LEVEL3, US",ae-1-3114.edge5.London1.Level3.net
+129.250.2.147,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-17.r05.londen12.uk.bb.gin.ntt.net
+129.250.4.244,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-2.r24.londen12.uk.bb.gin.ntt.net
+129.250.6.116,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-3.r22.asbnva02.us.bb.gin.ntt.net
+129.250.4.166,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-1.r23.atlnga05.us.bb.gin.ntt.net
+129.250.5.208,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-5.r03.atlnga05.us.bb.gin.ntt.net
+129.250.50.42,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",us-atl-as2914.anchors.atlas.ripe.net
+2001:2000:3018:118::1,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",win-b2-v6.telia.net
+2001:2000:3080:1ea8::2,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",a1telekom-svc067740-lag003017.c.telia.net
+2001:850:1:2e::1,1,Intermediate,8447.0,"TELEKOM-AT A1 Telekom Austria AG, AT",NA
+2001:850:1:10c::2,1,Intermediate,8447.0,"TELEKOM-AT A1 Telekom Austria AG, AT",NA
+2001:850:501:bc::2,1,Intermediate,8447.0,"TELEKOM-AT A1 Telekom Austria AG, AT",NA
+2001:15c2:4:42::1,1,Intermediate,8591.0,"A1SLOVENIJA http://www.A1.si/, SI",NA
+2a01:260:1014::2,1,Intermediate,34779.0,"T-2-AS AS set propagated by T-2, d.o.o., SI",2a01-260-1014--2.link6.t-2.net
+2001:67c:27e4:7::42,1,Intermediate,198644.0,"GO6, SI",NA
+84.116.132.178,2,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",de-fra03b-ri1-ae-10-0.aorta.net
+103.4.96.182,1,Intermediate,32934.0,"FACEBOOK, US",ae71.pr06.fra2.tfbnw.net
+204.15.21.28,1,Intermediate,32934.0,"FACEBOOK, US",po161.asw02.fra5.tfbnw.net
+129.134.39.101,1,Intermediate,32934.0,"FACEBOOK, US",po745.psw04.fra3.tfbnw.net
+157.240.38.233,1,Intermediate,32934.0,"FACEBOOK, US",NA
+69.171.255.11,1,Intermediate,32934.0,"FACEBOOK, US",NA
+160.36.56.2,1,Intermediate,3450.0,"UTK, US",NA
+10.8.2.225,1,Intermediate,,,NA
+160.36.2.21,1,Intermediate,3450.0,"UTK, US",brxs01-xe-1-1-6-21.ns.utk.edu
+76.73.153.117,1,Intermediate,12083.0,"WOW-INTERNET, US",dynamic-76-73-153-117.knology.net
+2a03:a240:1::5,1,sender,199441.0,"AS1-COSIUM, FR",atlas-eqx2.cosium.org
+2a03:a240:1::1,1,Intermediate,199441.0,"AS1-COSIUM, FR",net-eqx2-12.cosium.org
+2001:978:2:3d::9:1,1,Intermediate,174.0,"COGENT-174, US",NA
+2001:550:0:1000::9a19:bb5,1,Intermediate,174.0,"COGENT-174, US",te0-0-0-1.rcr21.b019498-0.par01.atlas.cogentco.com
+2a0d:d741:4::,0,dest,,,NA
+2001:728:0:5000::69d,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",xe-0-7-0-2-0.r02.mlanit01.it.bb.gin.ntt.net
+2001:2000:3080:12c2::1,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",mno-b2-link.telia.net
+2001:2000:3018:a4::1,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",san-b1-v6.telia.net
+2001:2000:3080:1705::2,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",axtel-ic-335832-mdc-b1.c.telia.net
+2806:0:0:100::1,1,Intermediate,6503.0,"Axtel, S.A.B. de C.V., MX",NA
+2806:0:0:100::2,1,Intermediate,6503.0,"Axtel, S.A.B. de C.V., MX",NA
+2001:1250:ffe0:2::170,1,Intermediate,22894.0,"Network Information Center MÃ©xico S.C., MX",NA
+213.254.31.238,1,Intermediate,12779.0,"ITGATE, IT",be3.boogie-monster.core.MIL.itgate.net
+81.25.202.225,2,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",NA
+129.250.9.234,2,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-0.level3.mlanit01.it.bb.gin.ntt.net
+213.19.197.50,1,Intermediate,3356.0,"LEVEL3, US",KAUST-US-LI.ear3.Amsterdam1.Level3.net
+109.171.136.4,1,Intermediate,50999.0,"KAUST-AS1, SA",NA
+2001:470:0:3aa::2,2,Intermediate,6939.0,"HURRICANE, US",100ge12-1.core1.sto1.he.net
+2a01:3f0:0:101::64,2,Intermediate,8674.0,"NETNOD-IX Netnod Internet Exchange Sverige AB, SE",et50-1.ro1-stc.sth.netnod.se
+2a01:3f0:0:72::235,2,Intermediate,8674.0,"NETNOD-IX Netnod Internet Exchange Sverige AB, SE",peering.r1.stu.dnsnode.net
+2a01:3f0:0:301::53,1,Intermediate,8674.0,"NETNOD-IX Netnod Internet Exchange Sverige AB, SE",a.ns.se
+72.52.92.13,1,Intermediate,6939.0,"HURRICANE, US",100ge1-1.core1.par2.he.net
+216.66.89.214,1,Intermediate,6939.0,"HURRICANE, US",flag-as-as15412.10gigabitethernet7-13.core1.par2.he.net
+62.216.128.197,1,Intermediate,15412.0,"FLAG-AS Flag Telecom Global Internet AS, GB",xe-8-0-0.0.cjr03.prs001.flagtel.com
+80.77.2.154,1,Intermediate,15412.0,"FLAG-AS Flag Telecom Global Internet AS, GB",NA
+37.76.254.38,1,Intermediate,35753.0,"ITC ITC AS number, SA",NA
+86.111.192.9,0,dest,30857.0,"CITC-AS, SA",c1.dns.sa
+213.254.31.229,1,Intermediate,12779.0,"ITGATE, IT",be2.boogie.core.MIL.itgate.net
+4.69.159.142,1,Intermediate,3356.0,"LEVEL3, US",ae-38-3604.ear1.Marseille1.Level3.net
+213.242.116.222,1,Intermediate,3356.0,"LEVEL3, US",NA
+212.36.211.202,1,Intermediate,9051.0,"Beirut-Lebanon, LB",NA
+193.227.162.235,1,Intermediate,9051.0,"Beirut-Lebanon, LB",popbg3.idm.net.lb
+194.126.24.26,1,Intermediate,9051.0,"Beirut-Lebanon, LB",NA
+193.188.128.129,1,Intermediate,12812.0,ASN-AUBNET,vpn.aub.edu.lb
+193.188.128.54,1,Intermediate,12812.0,ASN-AUBNET,NA
+2001:7f8:1::a500:8529:1,1,Intermediate,,,NA
+2001:1670:9::2a,1,Intermediate,28885.0,"OMANTEL-NAP-AS OmanTel NAP, OM",NA
+2001:1670:0:100:82:178:32:9,1,Intermediate,28885.0,"OMANTEL-NAP-AS OmanTel NAP, OM",NA
+2001:1670:0:400::1a,1,Intermediate,28885.0,"OMANTEL-NAP-AS OmanTel NAP, OM",NA
+2a00:9120:1::136,1,Intermediate,60680.0,"OMANTRA-AS, OM",NA
+2a00:9120:1::50,1,Intermediate,60680.0,"OMANTRA-AS, OM",NA
+80.239.128.149,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-b2-link.telia.net
+62.115.142.194,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-bb2-link.telia.net
+62.115.118.149,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",chi-b22-link.telia.net
+62.115.121.230,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",kanc-b1-link.telia.net
+216.66.78.90,1,Intermediate,6939.0,"HURRICANE, US",wholesale-internet-inc.100gigabitethernet2-1.core1.mci3.he.net
+69.30.209.186,1,Intermediate,32097.0,"WII, US",100ge1-2.edge-1.grand.mci.us.as32097.net
+69.30.249.206,1,Intermediate,32097.0,"WII, US",NA
+62.219.189.30,1,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-219-189-30.cablep.bezeqint.net
+195.66.224.193,1,Intermediate,,,linx-224.retn.net
+87.245.242.142,1,Intermediate,9002.0,"RETN-AS, EU",GW-Cgates.retn.net
+5.20.2.250,1,Intermediate,21412.0,"CGATES-AS, LT",dmz-2-250.cgates.lt
+2001:4cd0:11:802::1,2,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",NA
+2a06:8187:fe01:18::1,0,dest,,,NA
+212.179.124.85,1,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-179-124-85.cust.bezeqint.net
+212.179.124.74,1,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-179-124-74.cust.bezeqint.net
+80.81.192.217,1,Intermediate,,,decix.dialtelecom.cz
+82.119.246.102,1,Intermediate,29208.0,"DIALTELECOM-AS Dial Telecom a.s., SK",cz-prg-p1sit-hunge0-2-0-1.dialtelecom.cz
+82.119.246.14,1,Intermediate,29208.0,"DIALTELECOM-AS Dial Telecom a.s., SK",NA
+82.119.246.238,1,Intermediate,29208.0,"DIALTELECOM-AS Dial Telecom a.s., SK",cz-prg-asbr2-et-0-0-0.dialtelecom.cz
+82.113.33.102,1,Intermediate,29208.0,"DIALTELECOM-AS Dial Telecom a.s., SK",gw-cra.dialtelecom.cz
+84.244.124.39,1,Intermediate,25248.0,"BLUETONE-AS The Czech Republic, CZ",et-12-2-0-100-mx-phdc3.bluetone.cz
+82.99.180.41,1,Intermediate,25248.0,"BLUETONE-AS The Czech Republic, CZ",82-99-180-41.static.bluetone.cz
+217.31.202.20,1,Intermediate,25192.0,"CZNIC-AS, CZ",atlas-anchors.nic.cz
+2a01:5042:100::1:1,0,dest,,,NA
+2001:1418:1:101::3,2,Intermediate,12779.0,"ITGATE, IT",be1.scooby-monster.core.TRN.ipv6.ITgate.net
+2001:668:0:3:ffff:0:2e21:5641,1,Intermediate,3257.0,"GTT-BACKBONE GTT, DE",xe-5-2-2.cr0-trn3.ip6.gtt.net
+2001:668:0:2:ffff:0:d5c8:7616,2,Intermediate,3257.0,"GTT-BACKBONE GTT, DE",NA
+2001:668:0:3:ffff:0:2e21:4e6a,2,Intermediate,3257.0,"GTT-BACKBONE GTT, DE",NA
+2620:10a:80ab::45,1,Intermediate,394354.0,"CIRA-REGISTRY, CA",d.nic.dk
+80.249.209.203,1,Intermediate,,,nl-sar.nordu.net
+109.105.102.97,1,Intermediate,2603.0,"NORDUNET, NO",uk-hex.nordu.net
+109.105.102.98,1,Intermediate,2603.0,"NORDUNET, NO",ndn-gw.mx1.lon.uk.geant.net
+62.40.98.91,1,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",ae2.mx1.dub.ie.geant.net
+83.97.88.74,1,Intermediate,21320.0,"GEANT_IAS_VRF, GB",heanet-ias-heanet-gw.dub.ie.geant.net
+87.44.50.5,1,Intermediate,1213.0,"HEANET, IE",et8-0-0-0.core1-pw.nn.hea.net
+185.6.36.2,1,Intermediate,2128.0,"INEX Internet Neutral Exchange Association Company Limited By Guarantee, IE",f0-0.gw1.inex.ie
+193.242.111.196,1,Intermediate,2128.0,"INEX Internet Neutral Exchange Association Company Limited By Guarantee, IE",NA
+2001:948:3:9::2,1,Intermediate,2603.0,"NORDUNET, NO",uk-hex.nordu.net
+2001:948:3:9::3,1,Intermediate,2603.0,"NORDUNET, NO",ndn-gw.mx1.lon.uk.geant.net
+2001:798:cc:3401:3401::2,1,Intermediate,20965.0,"GEANT The GEANT IP Service, GB",NA
+2001:798:1::5e,1,Intermediate,21320.0,"GEANT_IAS_VRF, GB",heanet-ias-heanet-gw.dub.ie.geant.net
+2001:770:200:1002::2,1,Intermediate,1213.0,"HEANET, IE",et8-0-0-0.core1-pw.nn.hea.net
+2001:7f8:18::2,1,Intermediate,2128.0,"INEX Internet Neutral Exchange Association Company Limited By Guarantee, IE",f0-0.gw1.inex.ie
+2a03:ac0:1:141::4,1,Intermediate,2128.0,"INEX Internet Neutral Exchange Association Company Limited By Guarantee, IE",NA
+194.116.96.66,2,Intermediate,,,limelight.topix.it
+68.142.88.116,1,Intermediate,22822.0,"LLNW, US",lag36.fr4.fra1.llnw.net
+178.79.240.9,1,Intermediate,22822.0,"LLNW, US",p1-1.fr3.fra1.llnw.net
+178.79.240.147,1,Intermediate,22822.0,"LLNW, US",ultradns.p3-5-10g.fra1.llnw.net
+156.154.101.24,1,Intermediate,397213.0,"ULTRADNS, US",NA
+69.28.172.209,1,Intermediate,22822.0,"LLNW, US",ve5.fr3.lin1.llnw.net
+87.248.194.221,1,Intermediate,22822.0,"LLNW, US",tge1-1.fr3.mrs1.llnw.net
+68.142.88.62,1,Intermediate,22822.0,"LLNW, US",lag34.fr3.cdg1.llnw.net
+185.178.52.39,1,Intermediate,22822.0,"LLNW, US",uldns.p1-9-10g.fr3.cdg1.llnw.net
+156.154.100.12,1,Intermediate,397215.0,"ULTRADNS, US",not.norid.no
+184.105.65.57,1,Intermediate,6939.0,"HURRICANE, US",100ge10-2.core1.vie1.he.net
+193.171.255.2,1,Intermediate,1120.0,"ACONET_SERVICES ACOnet Services @ Vienna Internet eXchange, AT",NA
+80.81.193.65,1,Intermediate,,,edge.de-cix.as51184.net
+91.206.9.146,1,Intermediate,51184.0,"FONIRA-, AT",edge-v2659.oe3.as51184.net
+91.206.9.122,1,Intermediate,51184.0,"FONIRA-, AT",connex-v2641.oe3.as51184.net
+178.251.64.18,1,Intermediate,51184.0,"FONIRA-, AT",a.kernnetz.at
+217.29.66.57,1,Intermediate,,,irootserver.mix-it.net
+194.146.106.6,1,Intermediate,8674.0,"NETNOD-IX Netnod Internet Exchange Sverige AB, SE",i.nic.no
+134.222.48.110,1,Intermediate,286.0,"KPN, NL",ldn-s1-rou-1101.UK.eurorings.net
+134.222.48.199,1,Intermediate,286.0,"KPN, NL",asd2-rou-1022.NL.eurorings.net
+134.222.48.223,1,Intermediate,286.0,"KPN, NL",asd2-rou-1043.NL.eurorings.net
+194.122.76.250,1,Intermediate,286.0,"KPN, NL",nl-ams-as286.anchors.atlas.ripe.net
+192.114.65.1,2,Intermediate,8551.0,"BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL",bzq-114-65-1.cust.bezeqint.net
+195.66.225.238,1,Intermediate,,,NA
+91.35.187.187,1,sender,3320.0,"DTAG Internet service provider operations, DE",p5B23BBBB.dip0.t-ipconnect.de
+62.155.244.151,1,Intermediate,3320.0,"DTAG Internet service provider operations, DE",NA
+217.5.104.210,1,Intermediate,3320.0,"DTAG Internet service provider operations, DE",NA
+62.159.61.230,1,Intermediate,3320.0,"DTAG Internet service provider operations, DE",NA
+213.155.135.80,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",hbg-bb3-link.telia.net
+62.115.123.76,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-bb1-link.telia.net
+62.115.114.89,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ffm-b5-link.telia.net
+62.115.183.41,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",netnod11254-svc067337-ic350953.c.telia.net
+2001:470:0:4b7::2,1,Intermediate,6939.0,"HURRICANE, US",e0-53.core1.ams2.he.net
+2001:470:0:3c1::2,1,Intermediate,6939.0,"HURRICANE, US",charter-net-hky-nc-as20115.100gigabitethernet6-1.core1.ash1.he.net
+2001:506:100:32c::1,1,Intermediate,,,prr01lsanca-tge2-3.lsan.ca.charter.com
+2001:506:100:b::5,1,Intermediate,,,NA
+2001:506:100:1012::9,1,Intermediate,,,NA
+2001:506:100:1047::9,1,Intermediate,,,NA
+2001:506:100:105a::2,1,Intermediate,,,NA
+2600:6c7f:90e2::1,1,Intermediate,20115.0,"CHARTER-20115, US",gwy10nwtwct.nwtw.ct.charter.com
+80.249.208.34,1,Intermediate,,,ae2.jnr02.Asd002A.surf.net
+145.145.176.51,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",ae23.zl001a-jnx-01.surf.net
+145.145.4.45,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",e0-0-3-0.es001b-jnx-01.surf.net
+145.145.4.46,1,Intermediate,1103.0,"SURFNET-NL SURFnet, The Netherlands, NL",utwente-router.customer.surf.net
+130.89.254.33,1,Intermediate,1133.0,"UTWENTE-AS University Twente, NL",snowy-sylvester.routing.utwente.nl
+130.89.144.98,1,Intermediate,1133.0,"UTWENTE-AS University Twente, NL",dacs-ripe-anchor.ewi.utwente.nl
+2a01:3f0:0:302::53,1,Intermediate,8674.0,"NETNOD-IX Netnod Internet Exchange Sverige AB, SE",d.fi
+195.66.224.149,1,Intermediate,,,lon-up-1.mweb.co.za
+176.67.177.146,1,Intermediate,10474.0,"OPTINET, ZA",be-4-778-thd-p-2.optinet.net
+176.67.177.161,1,Intermediate,10474.0,"OPTINET, ZA",be-69-thd-p-1.optinet.net
+197.80.5.50,1,Intermediate,10474.0,"OPTINET, ZA",197-80-5-50.jhb.mweb.co.za
+197.80.4.219,1,Intermediate,10474.0,"OPTINET, ZA",197-80-4-219.jhb.mweb.co.za
+197.80.4.8,1,Intermediate,10474.0,"OPTINET, ZA",bu-ether1.vic-pe-2.optinet.net
+197.80.7.1,1,Intermediate,10474.0,"OPTINET, ZA",te0-7-0-3.vic-p-1.optinet.net
+197.80.7.14,1,Intermediate,10474.0,"OPTINET, ZA",197-80-7-14.jhb.mweb.co.za
+197.80.104.36,1,Intermediate,10474.0,"OPTINET, ZA",197-80-104-36.jhb.mweb.co.za
+2001:1418:1:2000::12,1,Intermediate,12779.0,"ITGATE, IT",if-0-0-0-0.Bulldog.core.LON.ipv6.ITgate.net
+2001:728:0:5000::699,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",xe-0-0-8-2.a00.londen12.uk.bb.gin.ntt.net
+2001:728:0:2000::49,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-17.r05.londen12.uk.bb.gin.ntt.net
+2001:728:0:2000::219,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-8.r25.londen12.uk.bb.gin.ntt.net
+2001:728:0:2000::179,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-7.r00.londen14.uk.bb.gin.ntt.net
+2001:728:0:2000::149,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-1.a01.londen14.uk.bb.gin.ntt.net
+2001:728:0:5000::7fe,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",gw.lhr1.dns.nomi.net.uk
+2a01:618:400::1,1,Intermediate,43519.0,"NOMINETANYCAST, GB",dns1.nic.uk
+2001:668:0:3:ffff:1:0:7fd,1,Intermediate,3257.0,"GTT-BACKBONE GTT, DE",xe-4-3-1.cr1-fra6.ip6.gtt.net
+2620:10a:80ab::48,1,Intermediate,394354.0,"CIRA-REGISTRY, CA",h-dns.pl
+91.118.92.105,1,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",91-118-92-105.static.upcbusiness.at
+84.116.218.105,1,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",at-vie01b-rc1-ae-15-2159.aorta.net
+84.116.130.25,1,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",at-vie01b-rc2-ae-41-0.aorta.net
+84.116.136.118,1,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",de-fra02a-rc1-ae-2-0.aorta.net
+84.116.135.62,1,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",de-fra01b-rc1-ae-22-0.aorta.net
+213.46.177.26,1,Intermediate,6830.0,"LGI-UPC formerly known as UPC Broadband Holding B.V., AT",NA
+176.52.248.139,1,Intermediate,12956.0,"TELEFONICA TELXIUS, ES",NA
+176.52.248.109,1,Intermediate,12956.0,"TELEFONICA TELXIUS, ES",NA
+94.142.119.173,1,Intermediate,12956.0,"TELEFONICA TELXIUS, ES",NA
+5.53.6.68,1,Intermediate,12956.0,"TELEFONICA TELXIUS, ES",NA
+176.52.254.65,1,Intermediate,12956.0,"TELEFONICA TELXIUS, ES",NA
+84.16.10.237,1,Intermediate,12956.0,"TELEFONICA TELXIUS, ES",NA
+190.12.78.213,1,Intermediate,27843.0,"OPTICAL TECHNOLOGIES S.A.C., PE",NA
+161.132.212.121,1,Intermediate,27843.0,"OPTICAL TECHNOLOGIES S.A.C., PE",NA
+190.12.64.129,1,Intermediate,27843.0,"OPTICAL TECHNOLOGIES S.A.C., PE",NA
+190.12.64.58,0,dest,27843.0,"OPTICAL TECHNOLOGIES S.A.C., PE",NA
+92.60.0.233,1,Intermediate,,,ae1-0-r60.inx.vie.nextlayer.net
+212.133.7.161,1,Intermediate,3356.0,"LEVEL3, US",et-0-0-13.bar4.Vienna1.Level3.net
+4.69.210.66,1,Intermediate,3356.0,"LEVEL3, US",ae-2-3216.ear4.Frankfurt1.Level3.net
+4.68.63.50,1,Intermediate,3356.0,"LEVEL3, US",GBLX-level3-80G.Frankfurt1.Level3.net
+200.32.84.198,1,Intermediate,3549.0,"LVLT-3549, US",NA
+170.210.0.33,1,Intermediate,4270.0,"Red de Interconexion Universitaria, AR",rgda1-dc-sol.riu.edu.ar
+170.210.5.200,1,Intermediate,4270.0,"Red de Interconexion Universitaria, AR",ar-bue-as4270.anchors.atlas.ripe.net
+184.164.252.1,0,dest,,,NA
+5.56.17.85,1,Intermediate,201011.0,"NETZBETRIEB-GMBH, DE",NA
+80.255.14.38,1,Intermediate,201011.0,"NETZBETRIEB-GMBH, DE",ae1-2075.par10.core-backbone.com
+37.49.236.19,1,Intermediate,,,renater.par.franceix.net
+193.51.177.150,1,Intermediate,2200.0,"FR-RENATER Reseau National de telecommunications pour la Technologie, FR",xe-0-0-14-paris1-rtr-131.noc.renater.fr
+193.51.177.235,1,Intermediate,2200.0,"FR-RENATER Reseau National de telecommunications pour la Technologie, FR",te0-1-0-1-ren-nr-rennes-rtr-091.noc.renater.fr
+193.51.177.209,1,Intermediate,2200.0,"FR-RENATER Reseau National de telecommunications pour la Technologie, FR",te1-2-stbrieuc-rtr-021.noc.renater.fr
+193.51.177.211,1,Intermediate,2200.0,"FR-RENATER Reseau National de telecommunications pour la Technologie, FR",te1-2-lannion-rtr-021.noc.renater.fr
+193.51.177.174,1,Intermediate,2200.0,"FR-RENATER Reseau National de telecommunications pour la Technologie, FR",te3-1-brest1-rtr-021.noc.renater.fr
+193.51.188.9,1,Intermediate,2200.0,"FR-RENATER Reseau National de telecommunications pour la Technologie, FR",telecom-brest-vl807-pc1-brest1-rtr-021.noc.renater.fr
+192.108.116.205,1,Intermediate,50897.0,"AS-IMTA-BREST IMTA, Campus de Brest, FR",NA
+193.50.97.151,0,dest,2200.0,"FR-RENATER Reseau National de telecommunications pour la Technologie, FR",info-06.enstb.org
+92.60.0.209,2,Intermediate,,,ae12-0-r10.tnz.sbg.nextlayer.net
+92.60.3.27,2,Intermediate,,,xe-0-1-3-0-r06.nikh.ams.nextlayer.net
+31.31.38.74,1,Intermediate,,,te-0-10-0-14.bb01.ams-01.leaseweb.net
+31.31.34.118,1,Intermediate,,,et-19-1.agg01.ams-01.leaseweb.net
+31.31.34.103,1,Intermediate,,,te-4-4.bb02.wdc-01.leaseweb.net
+31.31.34.86,1,Intermediate,,,te-3-1.bb01.wdc-01.leaseweb.net
+31.31.34.75,1,Intermediate,,,xe-0-2-2.bb01.sfo-11.leaseweb.net
+31.31.39.201,1,Intermediate,,,ae-101.br01.sfo-12.us.leaseweb.net
+173.208.122.3,1,Intermediate,7203.0,"LEASEWEB-USA-SFO-12, US",po-1.ce02.sfo-12.us.leaseweb.net
+209.58.135.163,1,Intermediate,7203.0,"LEASEWEB-USA-SFO-12, US",NA
+2a02:2178:0:21::2,1,Intermediate,29075.0,"IELO IELO Main Network, FR",frpar-eqx3-c6k1.as29075.net
+2a02:2178:0:a4::1,1,Intermediate,29075.0,"IELO IELO Main Network, FR",frpar-eqx3-a9h1.as29075.net
+2a02:2178:3:66::1,1,Intermediate,29075.0,"IELO IELO Main Network, FR",frpar-eqx3-anc1.as29075.net
+2001:7f8:30:0:2:1:0:6939,1,Intermediate,,,NA
+2001:470:0:41d::2,1,Intermediate,6939.0,"HURRICANE, US",100ge9-2.core1.muc1.he.net
+2001:470:0:2ef::1,1,Intermediate,6939.0,"HURRICANE, US",100ge14-2.core1.fra2.he.net
+2001:7f8:13::a500:9158:1,1,Intermediate,,,NA
+2001:1580:0:120c::1,1,Intermediate,9158.0,"TELENOR_DANMARK_AS, DK",NA
+2001:1580:0:120c::2,1,Intermediate,9158.0,"TELENOR_DANMARK_AS, DK",NA
+80.249.209.106,1,Intermediate,,,ams-ix-1.cesnet.cz
+195.113.156.106,1,Intermediate,2852.0,"CESNET2, CZ",r105-r40.cesnet.cz
+195.113.161.50,1,Intermediate,2852.0,"CESNET2, CZ",cz-prg-as2852.anchors.atlas.ripe.net
+92.60.1.233,1,Intermediate,,,ae2-0-r60.inx.vie.nextlayer.net
+83.231.187.1,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",xe-0-0-0-2.r00.vienat01.at.bb.gin.ntt.net
+129.250.4.145,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-18.r21.frnkge13.de.bb.gin.ntt.net
+129.250.6.1,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-0.r20.frnkge13.de.bb.gin.ntt.net
+129.250.6.54,1,Intermediate,2914.0,"NTT-COMMUNICATIONS-2914, US",ae-11.r21.nwrknj03.us.bb.gin.ntt.net
+2001:a61:3a4c:5a01:220:4aff:fed1:3600,1,sender,8767.0,"MNET-AS Germany, DE",NA
+2001:a61:3a4c:5a01:eadf:70ff:fe7f:d457,1,Intermediate,8767.0,"MNET-AS Germany, DE",NA
+2001:a60::89:305:1,1,Intermediate,8767.0,"MNET-AS Germany, DE",NA
+2001:a60::89:203,1,Intermediate,8767.0,"MNET-AS Germany, DE",r3.muc2.m-online.net
+2001:2000:3080:c31::1,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",mcn-b2-link.telia.net
+2001:2000:3080:d5e::2,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",qwest-ic-311351-ffm-b12.c.telia.net
+2001:428::65:120:16:135,1,Intermediate,3910.0,"CENTURYLINK-EUROPE-LEGACY-QWEST, US",NA
+2001:500:12::d0d,0,dest,5927.0,"DNIC-ASBLK-05800-06055, US",G.ROOT-SERVERS.NET
+134.222.48.249,1,Intermediate,286.0,"KPN, NL",asd-s6-rou-1042.NL.eurorings.net
+130.117.15.45,1,Intermediate,174.0,"COGENT-174, US",be286.rcr22.ams05.atlas.cogentco.com
+154.54.60.25,1,Intermediate,174.0,"COGENT-174, US",be3500.ccr42.ams03.atlas.cogentco.com
+154.54.57.70,1,Intermediate,174.0,"COGENT-174, US",be12489.ccr42.par01.atlas.cogentco.com
+154.54.61.117,1,Intermediate,174.0,"COGENT-174, US",be2318.ccr32.bio02.atlas.cogentco.com
+154.54.85.245,1,Intermediate,174.0,"COGENT-174, US",be2332.ccr42.dca01.atlas.cogentco.com
+154.54.24.222,1,Intermediate,174.0,"COGENT-174, US",be2113.ccr42.atl01.atlas.cogentco.com
+154.54.28.50,1,Intermediate,174.0,"COGENT-174, US",be3483.ccr22.mia01.atlas.cogentco.com
+154.54.86.206,1,Intermediate,174.0,"COGENT-174, US",be2027.ccr22.mia03.atlas.cogentco.com
+38.88.164.26,1,Intermediate,174.0,"COGENT-174, US",NA
+216.241.0.23,1,Intermediate,18747.0,"IFX18747, US",NA
+138.204.228.25,1,Intermediate,61506.0,"Insacom y Cia. Limitada, CL",NA
+2a01:6940:201:603::1b,1,sender,29605.0,"BCS 32 rue Delizy, FR",NA
+2a01:6940:201:603::19,1,Intermediate,29605.0,"BCS 32 rue Delizy, FR",vlan-603.core-eqx-gw3.core.bcstechno.net
+2a01:6940:200:105::1,1,Intermediate,29605.0,"BCS 32 rue Delizy, FR",xe-1-1-0-105.core-eqx-gw2.core.bcstechno.net
+2a01:6940:200:106::1,1,Intermediate,29605.0,"BCS 32 rue Delizy, FR",ae0-106.core-eqx-gw1.core.bcstechno.net
+2001:978:2:1c::9:1,1,Intermediate,174.0,"COGENT-174, US",NA
+2001:550:0:1000::8275:1a1,1,Intermediate,174.0,"COGENT-174, US",be2922.ccr42.par01.atlas.cogentco.com
+2001:550:0:1000::9a36:3d75,1,Intermediate,174.0,"COGENT-174, US",be2318.ccr32.bio02.atlas.cogentco.com
+2001:550:0:1000::9a36:3d6a,1,Intermediate,174.0,"COGENT-174, US",be2314.rcr21.opo01.atlas.cogentco.com
+2001:550:0:1000::9a36:380e,1,Intermediate,174.0,"COGENT-174, US",be2498.rcr21.lis01.atlas.cogentco.com
+2001:978:2:32::31:2,1,Intermediate,174.0,"COGENT-174, US",NA
+2c0f:fc98:501:1::2,1,Intermediate,37282.0,"MAINONE, NG",NA
+2001:43f8:6c0:a::1,1,Intermediate,37495.0,"Eko-Konnect, NG",NA
+2001:43f8:6c0:1::6,1,Intermediate,37495.0,"Eko-Konnect, NG",NA
+37.49.236.71,1,Intermediate,,,hivane.par.franceix.net
+193.164.153.194,1,Intermediate,34019.0,"HIVANE, FR",ve487-rt2-th2.bb.hivane.net
+193.17.192.164,1,Intermediate,34019.0,"HIVANE, FR",fr-ivs-as34019.anchors.atlas.ripe.net
+154.54.58.237,1,Intermediate,174.0,"COGENT-174, US",be2800.ccr42.fra03.atlas.cogentco.com
+154.54.36.254,1,Intermediate,174.0,"COGENT-174, US",be2960.ccr22.muc03.atlas.cogentco.com
+154.54.59.181,1,Intermediate,174.0,"COGENT-174, US",be3462.ccr52.vie01.atlas.cogentco.com
+154.54.59.190,1,Intermediate,174.0,"COGENT-174, US",be3464.ccr51.beg03.atlas.cogentco.com
+130.117.0.93,1,Intermediate,174.0,"COGENT-174, US",be3421.ccr31.sof02.atlas.cogentco.com
+149.6.68.18,1,Intermediate,174.0,"COGENT-174, US",NA
+109.160.0.205,1,Intermediate,12615.0,"GCN-AS GCN AD - Sofia, Bulgaria, BG",NA
+195.250.60.125,1,Intermediate,198228.0,"STS-AS, BG",NA
+154.54.60.241,1,Intermediate,174.0,"COGENT-174, US",be2403.ccr41.par01.atlas.cogentco.com
+154.54.58.233,1,Intermediate,174.0,"COGENT-174, US",be2799.ccr41.fra03.atlas.cogentco.com
+154.54.36.54,1,Intermediate,174.0,"COGENT-174, US",be2959.ccr21.muc03.atlas.cogentco.com
+130.117.0.17,1,Intermediate,174.0,"COGENT-174, US",be3072.ccr51.zrh02.atlas.cogentco.com
+154.54.56.202,1,Intermediate,174.0,"COGENT-174, US",te0-0-0-1.agr12.zrh02.atlas.cogentco.com
+154.25.0.74,1,Intermediate,174.0,"COGENT-174, US",te0-0-2-3.nr11.b042839-0.zrh02.atlas.cogentco.com
+213.156.230.43,1,Intermediate,9092.0,"OPENSYSTEMS-AS Zurich, Switzerland, CH",whale43.open.ch
+213.156.230.41,1,Intermediate,9092.0,"OPENSYSTEMS-AS Zurich, Switzerland, CH",whale41.open.ch
+213.156.231.22,1,Intermediate,9092.0,"OPENSYSTEMS-AS Zurich, Switzerland, CH",shark22.open.ch
+154.54.57.69,1,Intermediate,174.0,"COGENT-174, US",be12489.ccr42.lon13.atlas.cogentco.com
+154.54.58.186,1,Intermediate,174.0,"COGENT-174, US",be2871.ccr21.lon01.atlas.cogentco.com
+154.54.61.61,1,Intermediate,174.0,"COGENT-174, US",be2185.rcr21.b015534-1.lon01.atlas.cogentco.com
+149.14.250.178,1,Intermediate,174.0,"COGENT-174, US",liquidtelecom.demarc.cogentco.com
+5.11.10.190,1,Intermediate,30844.0,"LIQUID-AS, GB",be-5.luk-p1-tho.liquidtelecom.net
+5.11.10.154,1,Intermediate,30844.0,"LIQUID-AS, GB",be-4.luk-pe1-gsw.liquidtelecom.net
+5.11.10.124,1,Intermediate,30844.0,"LIQUID-AS, GB",5.11.10.124.liquidtelecom.net
+5.11.12.127,1,Intermediate,30844.0,"LIQUID-AS, GB",xe-0-1-3.1.0.lke-p1-msa.liquidtelecom.com
+197.155.94.216,1,Intermediate,30844.0,"LIQUID-AS, GB",hu-0-3-0-3.lke-p1-nbi.liquidtelecom.net
+197.155.94.47,1,Intermediate,30844.0,"LIQUID-AS, GB",et-0-1-10.lke-pe3-nbi.liquidtelecom.net
+197.155.93.65,1,Intermediate,30844.0,"LIQUID-AS, GB",197.155.93.65.liquidtelecom.net
+196.6.220.130,1,Intermediate,37578.0,"Tespok, KE",NA
+64.125.29.49,1,Intermediate,6461.0,"ZAYO-6461, US",ae3.cs1.iah1.us.eth.zayo.com
+64.125.28.99,1,Intermediate,6461.0,"ZAYO-6461, US",ae5.cs1.dfw2.us.eth.zayo.com
+64.125.29.193,1,Intermediate,6461.0,"ZAYO-6461, US",ae9.cs3.phx2.us.eth.zayo.com
+64.125.25.255,1,Intermediate,6461.0,"ZAYO-6461, US",ae21.mpr3.phx2.us.zip.zayo.com
+208.185.171.106,1,Intermediate,6461.0,"ZAYO-6461, US",208.185.171.106.IPYX-149806-002-ZYO.zip.zayo.com
+108.170.0.21,1,Intermediate,20454.0,"SSASN2, US",eth.14.2.cr1.phx0.phoenixnap.com
+184.164.151.8,1,Intermediate,20454.0,"SSASN2, US",eth.28.1.iedge1.phx0.phoenixnap.com
+23.235.242.49,1,Intermediate,20454.0,"SSASN2, US",eth.104.ar1.colo.156.phx0.phoenixnap.com
+104.225.102.122,1,Intermediate,36236.0,"NETACTUATE, US",122.102.225.104.ptr.anycast.net
+2001:2000:3019:79::1,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ldn-bb3-v6.telia.net
+2001:2000:3018:74::1,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",ldn-b7-v6.telia.net
+2001:2000:3080:13b7::2,1,Intermediate,1299.0,"TELIANET Telia Carrier, SE",telstra-ic-324829-ldn-b7.c.telia.net
+2403:e800:ff00:110::4c,1,Intermediate,4637.0,"ASN-TELSTRA-GLOBAL Telstra Global, HK",NA
+2403:e800:805:100::2,1,Intermediate,4637.0,"ASN-TELSTRA-GLOBAL Telstra Global, HK",NA
+2a01:5041:fff:2::1,1,Intermediate,,,NA
+2a01:5041:c::1,1,Intermediate,202196.0,"BOOKING-BV, NL",NA
